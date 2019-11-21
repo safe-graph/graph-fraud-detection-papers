@@ -1,4 +1,4 @@
-# Graph Based Fraud Detection Papers and Resources
+# Graph-based Fraud Detection Papers and Resources
 A curated list of fraud detection papers using graph information or graph neural networks
 
 
