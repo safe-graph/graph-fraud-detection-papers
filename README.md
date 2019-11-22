@@ -1,4 +1,6 @@
 # Graph-based Fraud Detection Papers and Resources
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A curated list of fraud detection papers using graph information or graph neural networks
 
 
