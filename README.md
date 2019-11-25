@@ -8,6 +8,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2019 | **FlowScope: Spotting Money Laundering Based on Graphs**  | AAAI 2020  |  Link   |  Link |
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  Link   |  Link |
 | 2019 | **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework**  | CIKM 2019  | [Link](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf) | Link |
 | 2019 | **Spam Review Detection with Graph Convolutional Networks**  | CIKM 2019  | [Link](https://arxiv.org/abs/1908.10679) | Link |
@@ -18,8 +19,36 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | MLG 2018 | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
 
 
-## Previous Papers
-TODO
+## Non-GNN Papers
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2019 | **Spotting Collective Behaviour of Online Frauds in Customer Reviews**  | IJCAI 2019  |  [Link](https://www.ijcai.org/proceedings/2019/0035.pdf)   |  [Link](https://github.com/LCS2-IIITD/DeFrauder) |
+| 2018 | **Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach**  | WSDM 2018  | [Link](http://faculty.cse.tamu.edu/caverlee/pubs/parisa18wsdm.pdf) | Link |
+| 2018 | **REV2: Fraudulent User Prediction in Rating Platforms**  | WSDM 2018 | [Link](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf) | [Link](https://cs.stanford.edu/~srijan/rev2/) |
+| 2017 | **HoloScope: Topology-and-Spike Aware Fraud Detection**  | CIKM 2017 | [Link](https://arxiv.org/pdf/1705.02505.pdf) | [Link](https://github.com/shenghua-liu/HoloScope) |
+| 2016 | **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage**  | KDD 2016  | [Link](https://bhooi.github.io/papers/fraudar_kdd16.pdf) | [Link](https://bhooi.github.io/projects/fraudar/index.html) |
+| 2015 | **Collective Opinion Spam Detection: Bridging Review Networks and Metadata**  | KDD 2015 | [Link](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf) | [Link](http://shebuti.com/collective-opinion-spam-detection/) |
+
 
 ## Useful Resources
-TODO
+
+[Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+
+[Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
+
+[Graph Adversarial Learning Literature](https://github.com/YingtongDou/graph-adversarial-learning-literature)
+
+## Survey Papers
+
+[Graph based anomaly detection and description: a survey](https://link.springer.com/article/10.1007/s10618-014-0365-y)
+
+[Adversarial Attack and Defense on Graph Data: A Survey](https://arxiv.org/abs/1812.10528)
+
+[Suspicious behavior detection: Current trends and future directions](https://ieeexplore.ieee.org/abstract/document/7389913)
+
+[False information on web and social media: A survey](https://arxiv.org/abs/1804.08559)
+
+
+
+
+
