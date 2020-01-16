@@ -56,5 +56,5 @@ A curated list of fraud detection papers using graph information or graph neural
 
 [Misinformation in Social Media: Definition, Manipulation, and Detection](https://dl.acm.org/citation.cfm?id=3373475)
 
-
+[Mining Disinformation and Fake News: Concepts, Methods, and Recent Advancements](https://arxiv.org/abs/2001.00623)
 
