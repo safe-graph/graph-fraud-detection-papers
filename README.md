@@ -8,7 +8,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  Link   |  Link |
+| 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  Link |
 | 2019 | **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework**  | CIKM 2019  | [Link](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf) | Link |
 | 2019 | **Spam Review Detection with Graph Convolutional Networks**  | CIKM 2019  | [Link](https://arxiv.org/abs/1908.10679) | Link |
 | 2019 | **Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics**  | KDD 2019 Workshop| [Link](https://arxiv.org/abs/1908.02591) | Link |
