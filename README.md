@@ -44,7 +44,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
 
-[Graph Adversarial Learning Literature](https://github.com/YingtongDou/graph-adversarial-learning-literature)
+[Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
 
 ## Survey Papers
 
