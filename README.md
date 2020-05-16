@@ -26,6 +26,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2015
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | KDD 2020  |  |  |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/abs/2004.04834)   |  Link |
 | 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | arXiv  |  [Link](https://arxiv.org/abs/1912.11113)   |  Link |
 | 2020 | **FlowScope: Spotting Money Laundering Based on Graphs**  | AAAI 2020  |  [Link](http://shichuan.org/doc/78.pdf)   |  [Link](https://github.com/aplaceof/FlowScope) |
@@ -45,11 +46,13 @@ A curated list of fraud detection papers using graph information or graph neural
 
 ## Useful Resources
 
-[A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
+[DGFraud: A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
 
 [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
 [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
+
+[Graph Fraud Datasets from Prof. Srijan Kumar](https://cs.stanford.edu/~srijan/)
 
 [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
 
