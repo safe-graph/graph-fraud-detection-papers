@@ -9,7 +9,6 @@ A curated list of fraud detection papers using graph information or graph neural
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.00625)   |  [Link](https://github.com/safe-graph/DGFraud) |
-| 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework**  | CIKM 2019  | [Link](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf) | [Link](https://github.com/safe-graph/DGFraud) |
@@ -18,7 +17,6 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2019 | **Uncovering Insurance Fraud Conspiracy with Network Learning**  | SIGIR 2019 | [Link](https://dl.acm.org/citation.cfm?id=3331184.3331372) | Link |
 | 2019 | **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System**  | WWW 2019 Workshop| [Link](https://dl.acm.org/citation.cfm?id=3316586) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **GeniePath: Graph Neural Networks with Adaptive Receptive Paths**  | AAAI 2019 | [Link](https://arxiv.org/abs/1802.00910) | [Link](https://github.com/safe-graph/DGFraud) |
-| 2019 | **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism**  | AAAI 2019 | [Link](https://aaai.org/ojs/index.php/AAAI/article/view/3884) | Link |
 | 2018 | **Heterogeneous Graph Neural Networks for Malicious Account Detection**  | CIKM 2018 | [Link](https://dl.acm.org/citation.cfm?id=3272010) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | MLG 2018 | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
 
@@ -28,11 +26,13 @@ A curated list of fraud detection papers using graph information or graph neural
 |-------|--------|--------|--------|-----------|
 | 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | KDD 2020  |  |  |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/abs/2004.04834)   |  Link |
+| 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
 | 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | arXiv  |  [Link](https://arxiv.org/abs/1912.11113)   |  Link |
 | 2020 | **FlowScope: Spotting Money Laundering Based on Graphs**  | AAAI 2020  |  [Link](http://shichuan.org/doc/78.pdf)   |  [Link](https://github.com/aplaceof/FlowScope) |
 | 2019 | **SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs**  | DSAA 2019  |  [Link](https://arxiv.org/abs/1908.07087)   |  [Link](https://github.com/hamedn/SliceNDice) |
 | 2019 | **TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial**  | VLDB 2019  |  [Link](https://arxiv.org/abs/1906.07407)   |  Link |
 | 2019 | **Spotting Collective Behaviour of Online Frauds in Customer Reviews**  | IJCAI 2019  |  [Link](https://www.ijcai.org/proceedings/2019/0035.pdf)   |  [Link](https://github.com/LCS2-IIITD/DeFrauder) |
+| 2019 | **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism**  | AAAI 2019 | [Link](https://aaai.org/ojs/index.php/AAAI/article/view/3884) | Link |
 | 2018 | **Deep Structure Learning for Fraud Detection**  | ICDM 2018  | [Link](https://www.researchgate.net/publication/330030140_Deep_Structure_Learning_for_Fraud_Detection) | Link |
 | 2018 | **Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach**  | WSDM 2018  | [Link](http://faculty.cse.tamu.edu/caverlee/pubs/parisa18wsdm.pdf) | Link |
 | 2018 | **REV2: Fraudulent User Prediction in Rating Platforms**  | WSDM 2018 | [Link](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf) | [Link](https://cs.stanford.edu/~srijan/rev2/) |
