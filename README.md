@@ -25,7 +25,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2015
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | KDD 2020  |  |  |
+| 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/abs/2004.04834)   |  Link |
 | 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
 | 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | arXiv  |  [Link](https://arxiv.org/abs/1912.11113)   |  Link |
