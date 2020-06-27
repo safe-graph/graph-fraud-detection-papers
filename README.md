@@ -22,7 +22,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | MLG 2018 | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
 
 
-## Non-GNN Papers since 2015
+## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
@@ -37,12 +37,14 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2018 | **Deep Structure Learning for Fraud Detection**  | ICDM 2018  | [Link](https://www.researchgate.net/publication/330030140_Deep_Structure_Learning_for_Fraud_Detection) | Link |
 | 2018 | **Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach**  | WSDM 2018  | [Link](http://faculty.cse.tamu.edu/caverlee/pubs/parisa18wsdm.pdf) | Link |
 | 2018 | **REV2: Fraudulent User Prediction in Rating Platforms**  | WSDM 2018 | [Link](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf) | [Link](https://cs.stanford.edu/~srijan/rev2/) |
+| 2017 | **ZooBP: Belief Propagation for Heterogeneous Networks**  | VLDB 2017 | [Link](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf) | Link |
 | 2017 | **HitFraud: A Broad Learning Approach for Collective Fraud Detection in Heterogeneous Information Networks**  | ICDM 2017 | [Link](https://arxiv.org/abs/1709.04129) | Link |
 | 2017 | **GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graph**  | ICDM 2017 | [Link](https://ieeexplore.ieee.org/document/8215519) | [Link](https://github.com/binghuiwang/sybildetection) |
 | 2017 | **The Many Faces of Link Fraud**  | ICDM 2017 | [Link](https://arxiv.org/abs/1704.01420) | Link |
 | 2017 | **HoloScope: Topology-and-Spike Aware Fraud Detection**  | CIKM 2017 | [Link](https://arxiv.org/pdf/1705.02505.pdf) | [Link](https://github.com/shenghua-liu/HoloScope) |
 | 2016 | **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage**  | KDD 2016  | [Link](https://bhooi.github.io/papers/fraudar_kdd16.pdf) | [Link](https://bhooi.github.io/projects/fraudar/index.html) |
 | 2015 | **Collective Opinion Spam Detection: Bridging Review Networks and Metadata**  | KDD 2015 | [Link](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf) | [Link](http://shebuti.com/collective-opinion-spam-detection/) |
+| 2014 | **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective**  | ICDM 2014 | [Link](https://arxiv.org/abs/1410.3915) | Link |
 
 
 ## Useful Resources
