@@ -8,6 +8,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation**  | KDD 2020   |  [Link](http://pike.psu.edu/publications/kdd20-deterrent.pdf)   |  [Link](https://github.com/cuilimeng/DETERRENT) |
 | 2020 | **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.00625)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.10150)   |  Link |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
@@ -26,6 +27,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
+| 2020 | **Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation**  | ICWSM 2020  | [Link](http://www.public.asu.edu/~skai2/files/icwsm_20.pdf) | [Link](https://www.dropbox.com/sh/v1nmsdabk4wumcn/AADiRakrTIxx546qaOMNHPTWa?dl=0) |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/abs/2004.04834)   |  Link |
 | 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
 | 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | arXiv  |  [Link](https://arxiv.org/abs/1912.11113)   |  Link |
