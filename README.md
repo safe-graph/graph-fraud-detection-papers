@@ -8,12 +8,16 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2020 | **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters**  | CIKM 2020   |  Link  |  Link |
+| 2020 | **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters**  | CIKM 2020   |  [Link](https://arxiv.org/abs/2008.08692)  |  [Link](https://github.com/YingtongDou/CARE-GNN) |
+| 2020 | **Loan Default Analysis with Multiplex Graph Learning**  | CIKM 2020   |  [Link](https://www.researchgate.net/publication/343626706_Loan_Default_Analysis_with_Multiplex_Graph_Learning)  |  Link |
 | 2020 | **Error-Bounded Graph Anomaly Loss for GNNs**  | CIKM 2020   |  [Link](http://www.meng-jiang.com/pubs/gal-cikm20/gal-cikm20-paper.pdf)  |  [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
+| 2020 | **Early Fraud Detection with Augmented Graph Learning**  | DLG@KDD 2020   |  [Link](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)   |  Link|
 | 2020 | **DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation**  | KDD 2020   |  [Link](http://pike.psu.edu/publications/kdd20-deterrent.pdf)   |  [Link](https://github.com/cuilimeng/DETERRENT) |
 | 2020 | **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.00625)   |  [Link](https://github.com/safe-graph/DGFraud) |
+| 2020 | **Rumor Detection on Social Media with Graph Structured Adversarial Learning**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0197.pdf)   |  Link |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.10150)   |  Link |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
+| 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  Link |
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework**  | CIKM 2019  | [Link](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **Spam Review Detection with Graph Convolutional Networks**  | CIKM 2019  | [Link](https://arxiv.org/abs/1908.10679) | [Link](https://github.com/safe-graph/DGFraud) |
