@@ -8,6 +8,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **Multivariate Time-series Anomaly Detection via Graph Attention Network**  | ICDM 2020   |  [Link](https://arxiv.org/abs/2009.02040)  |  Link |
 | 2020 | **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters**  | CIKM 2020   |  [Link](https://arxiv.org/abs/2008.08692)  |  [Link](https://github.com/YingtongDou/CARE-GNN) |
 | 2020 | **Graph-based Modeling of Online Communities for Fake News Detection**  | arXiv   |  [Link](https://arxiv.org/abs/2008.06274)  |  [Link](https://github.com/shaanchandra/SAFER) |
 | 2020 | **FANG: Leveraging Social Context for Fake News Detection Using Graph Representation**  | CIKM 2020   |  [Link](https://arxiv.org/abs/2008.07939)  |  [Link](https://github.com/nguyenvanhoang7398/FANG) |
@@ -48,6 +49,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2019 | **Spotting Collective Behaviour of Online Frauds in Customer Reviews**  | IJCAI 2019  |  [Link](https://www.ijcai.org/proceedings/2019/0035.pdf)   |  [Link](https://github.com/LCS2-IIITD/DeFrauder) |
 | 2019 | **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism**  | AAAI 2019 | [Link](https://aaai.org/ojs/index.php/AAAI/article/view/3884) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2018 | **Deep Structure Learning for Fraud Detection**  | ICDM 2018  | [Link](https://www.researchgate.net/publication/330030140_Deep_Structure_Learning_for_Fraud_Detection) | [Link](https://github.com/zhao-tong/DeepFD-pyTorch) |
+| 2018 | **HGsuspector: Scalable Collective Fraud Detection in Heterogeneous Graphs**  | KDD 2018 Workshop | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_16.pdf) | Link |
 | 2018 | **Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach**  | WSDM 2018  | [Link](http://faculty.cse.tamu.edu/caverlee/pubs/parisa18wsdm.pdf) | Link |
 | 2018 | **REV2: Fraudulent User Prediction in Rating Platforms**  | WSDM 2018 | [Link](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf) | [Link](https://cs.stanford.edu/~srijan/rev2/) |
 | 2017 | **ZooBP: Belief Propagation for Heterogeneous Networks**  | VLDB 2017 | [Link](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
