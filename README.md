@@ -41,6 +41,8 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **AUTOAUDIT: Mining Accounting and Time-Evolving Graphs**  | IEEE BigData 2020  | [Link](https://arxiv.org/pdf/2011.00447.pdf) | [Link](https://github.com/mengchillee/AutoAudit) |
+| 2020 | **SpecGreedy: Unified Dense Subgraph Detection**  | ECML-PKDD 2020  | [Link](https://shenghua-liu.github.io/papers/pkdd2020_specgreedy.pdf) | [Link](https://github.com/wenchieh/specgreedy) |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection**  | TrueFact@KDD 2020  | [Link](https://drive.google.com/file/d/1BBNtSQeayy7ozonQbsbXmMdtEKDF4DLi/view) | Link |
 | 2020 | **Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation**  | ICWSM 2020  | [Link](http://www.public.asu.edu/~skai2/files/icwsm_20.pdf) | [Link](https://www.dropbox.com/sh/v1nmsdabk4wumcn/AADiRakrTIxx546qaOMNHPTWa?dl=0) |
