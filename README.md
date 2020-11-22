@@ -8,6 +8,9 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**  | ICDM 2020   |  Link  |  Link |
+| 2020 | **Adversarial Active Learning based Heterogeneous Graph Neural Network for Fake News Detection**  | ICDM 2020   |  Link  |  Link |
+| 2020 | **Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection**  | ICDM 2020   |  [Link](https://cs.nju.edu.cn/liyf/paper/icdm20-hmgnn.pdf)  |  [Link](https://github.com/iqiyi/HMGNN) |
 | 2020 | **BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising**  | CIKM 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3412690)  |  Link |
 | 2020 | **Early Anomaly Detection by Learning and Forecasting Behavior** | arXiv |  [Link](https://arxiv.org/pdf/2010.10016.pdf) | Link |
 | 2020 | **Multivariate Time-series Anomaly Detection via Graph Attention Network**  | ICDM 2020   |  [Link](https://arxiv.org/abs/2009.02040)  |  Link |
@@ -20,6 +23,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Early Fraud Detection with Augmented Graph Learning**  | DLG@KDD 2020   |  [Link](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)   |  Link|
 | 2020 | **DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation**  | KDD 2020   |  [Link](http://pike.psu.edu/publications/kdd20-deterrent.pdf)   |  [Link](https://github.com/cuilimeng/DETERRENT) |
 | 2020 | **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.00625)   |  [Link](https://github.com/safe-graph/DGFraud) |
+| 2020 | **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**  | ACL 2020   |  [Link](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)   |  [Link](https://github.com/l852888/GCAN) |
 | 2020 | **Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning**  | ACL 2020   |  [Link](https://www.aclweb.org/anthology/2020.acl-main.279.pdf)   |  [Link](https://github.com/Giruvegan/generative-camouflaged-spam-detector) |
 | 2020 | **Rumor Detection on Social Media with Graph Structured Adversarial Learning**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0197.pdf)   |  Link |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.10150)   |  Link |
@@ -43,11 +47,13 @@ A curated list of fraud detection papers using graph information or graph neural
 |-------|--------|--------|--------|-----------|
 | 2020 | **AUTOAUDIT: Mining Accounting and Time-Evolving Graphs**  | IEEE BigData 2020  | [Link](https://arxiv.org/pdf/2011.00447.pdf) | [Link](https://github.com/mengchillee/AutoAudit) |
 | 2020 | **SpecGreedy: Unified Dense Subgraph Detection**  | ECML-PKDD 2020  | [Link](https://shenghua-liu.github.io/papers/pkdd2020_specgreedy.pdf) | [Link](https://github.com/wenchieh/specgreedy) |
+| 2020 | **Real-Time Streaming Anomaly Detection in Dynamic Graphs**  | arXiv   |  [Link](https://arxiv.org/pdf/2009.08452.pdf)  |  [Link](https://github.com/Stream-AD/MIDAS) |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection**  | TrueFact@KDD 2020  | [Link](https://drive.google.com/file/d/1BBNtSQeayy7ozonQbsbXmMdtEKDF4DLi/view) | Link |
 | 2020 | **Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation**  | ICWSM 2020  | [Link](http://www.public.asu.edu/~skai2/files/icwsm_20.pdf) | [Link](https://www.dropbox.com/sh/v1nmsdabk4wumcn/AADiRakrTIxx546qaOMNHPTWa?dl=0) |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/abs/2004.04834)   |  Link |
 | 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
+| 2020 | **MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/1911.04464.pdf)   |  [Link](https://github.com/Stream-AD/MIDAS) |
 | 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | arXiv  |  [Link](https://arxiv.org/abs/1912.11113)   |  Link |
 | 2020 | **FlowScope: Spotting Money Laundering Based on Graphs**  | AAAI 2020  |  [Link](http://shichuan.org/doc/78.pdf)   |  [Link](https://github.com/aplaceof/FlowScope) |
 | 2019 | **SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs**  | DSAA 2019  |  [Link](https://arxiv.org/abs/1908.07087)   |  [Link](https://github.com/hamedn/SliceNDice) |
