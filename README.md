@@ -8,8 +8,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-
-| 2020 | **Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**  | ICDM 2020   |  Link  |  Link |
+| 2020 | **Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**  | ICDM 2020   |  Link  | Link |
 | 2020 | **Adversarial Active Learning based Heterogeneous Graph Neural Network for Fake News Detection**  | ICDM 2020   |  Link  |  Link |
 | 2020 | **Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection**  | ICDM 2020   |  [Link](https://cs.nju.edu.cn/liyf/paper/icdm20-hmgnn.pdf)  |  [Link](https://github.com/iqiyi/HMGNN) |
 | 2020 | **xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs**  | arXiv  |  [Link](https://arxiv.org/pdf/2011.12193.pdf)  |  Link |
