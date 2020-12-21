@@ -26,6 +26,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.00625)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2020 | **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**  | ACL 2020   |  [Link](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)   |  [Link](https://github.com/l852888/GCAN) |
 | 2020 | **Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning**  | ACL 2020   |  [Link](https://www.aclweb.org/anthology/2020.acl-main.279.pdf)   |  [Link](https://github.com/Giruvegan/generative-camouflaged-spam-detector) |
+| 2020 | **DFraud3-Multi-Component Fraud Detection free of Cold-start**  | arXiv   |  [Link](https://arxiv.org/pdf/2006.05718.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Graph Structured Adversarial Learning**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0197.pdf)   |  Link |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.10150)   |  Link |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
