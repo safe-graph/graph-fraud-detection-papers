@@ -8,6 +8,7 @@ A curated list of fraud detection papers using graph information or graph neural
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field**  | AAAI 2021  |  [Link](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)  | Link |
 | 2020 | **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks**  | AAAI 2021 Workshop  |  [Link](https://arxiv.org/pdf/2012.10831.pdf)  | Link |
 | 2020 | **APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding**  | arXiv  |  [Link](https://arxiv.org/pdf/2011.11545.pdf)  | Link |
 | 2020 | **Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**  | ICDM 2020   |  Link  | Link |
@@ -26,11 +27,13 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Error-Bounded Graph Anomaly Loss for GNNs**  | CIKM 2020   |  [Link](http://www.meng-jiang.com/pubs/gal-cikm20/gal-cikm20-paper.pdf)  |  [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
 | 2020 | **A Scalable Framework for Group Fraud Detection in Transaction using Deep Graph Neural Network**  | MLF@KDD 2020   |  [Link](https://drive.google.com/file/d/14CPo4U9nmRClf_62NhVnhJVG5yhQXzEt/view)   |  Link|
 | 2020 | **Early Fraud Detection with Augmented Graph Learning**  | DLG@KDD 2020   |  [Link](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)   |  Link|
+| 2020 | **TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook**  | KDD 2020   |  [Link](https://arxiv.org/pdf/2002.07917.pdf)   |  Link|
 | 2020 | **DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation**  | KDD 2020   |  [Link](http://pike.psu.edu/publications/kdd20-deterrent.pdf)   |  [Link](https://github.com/cuilimeng/DETERRENT) |
 | 2020 | **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/pdf/2005.00625.pdf)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2020 | **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**  | ACL 2020   |  [Link](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)   |  [Link](https://github.com/l852888/GCAN) |
 | 2020 | **Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning**  | ACL 2020   |  [Link](https://www.aclweb.org/anthology/2020.acl-main.279.pdf)   |  [Link](https://github.com/Giruvegan/generative-camouflaged-spam-detector) |
 | 2020 | **DFraud3-Multi-Component Fraud Detection free of Cold-start**  | arXiv   |  [Link](https://arxiv.org/pdf/2006.05718.pdf)   |  Link |
+| 2020 | **Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0643.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Graph Structured Adversarial Learning**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0197.pdf)   |  Link |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/abs/2005.10150)   |  Link |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
@@ -57,6 +60,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Real-Time Streaming Anomaly Detection in Dynamic Graphs**  | arXiv   |  [Link](https://arxiv.org/pdf/2009.08452.pdf)  |  [Link](https://github.com/Stream-AD/MIDAS) |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/pdf/2006.06069.pdf) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection**  | TrueFact@KDD 2020  | [Link](https://drive.google.com/file/d/1BBNtSQeayy7ozonQbsbXmMdtEKDF4DLi/view) | Link |
+| 2020 | **Collaboration Based Multi-Label Propagation for Fraud Detection**  | IJCAI 2020  | [Link](https://www.ijcai.org/Proceedings/2020/0343.pdf) | Link |
 | 2020 | **Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation**  | ICWSM 2020  | [Link](http://www.public.asu.edu/~skai2/files/icwsm_20.pdf) | [Link](https://www.dropbox.com/sh/v1nmsdabk4wumcn/AADiRakrTIxx546qaOMNHPTWa?dl=0) |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/pdf/2004.04834.pdf)   |  Link |
 | 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
