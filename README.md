@@ -6,9 +6,15 @@ A curated list of fraud detection papers using graph information or graph neural
 
 ## GNN Papers
 
+### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | Link |
 | 2021 | **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field**  | AAAI 2021  |  [Link](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)  | Link |
+
+### 2020
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
 | 2020 | **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks**  | AAAI 2021 Workshop  |  [Link](https://arxiv.org/pdf/2012.10831.pdf)  | Link |
 | 2020 | **APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding**  | arXiv  |  [Link](https://arxiv.org/pdf/2011.11545.pdf)  | Link |
 | 2020 | **Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**  | ICDM 2020   |  Link  | Link |
@@ -25,6 +31,8 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **FANG: Leveraging Social Context for Fake News Detection Using Graph Representation**  | CIKM 2020   |  [Link](https://arxiv.org/pdf/2008.07939.pdf)  |  [Link](https://github.com/nguyenvanhoang7398/FANG) |
 | 2020 | **Loan Default Analysis with Multiplex Graph Learning**  | CIKM 2020   |  [Link](https://www.researchgate.net/publication/343626706_Loan_Default_Analysis_with_Multiplex_Graph_Learning)  |  Link |
 | 2020 | **Error-Bounded Graph Anomaly Loss for GNNs**  | CIKM 2020   |  [Link](http://www.meng-jiang.com/pubs/gal-cikm20/gal-cikm20-paper.pdf)  |  [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
+| 2020 | **GCNEXT: graph convolutional network with expanded balance theory for fraudulent user detection**  | Social Network Analysis and Mining    |  [Link](https://link.springer.com/article/10.1007/s13278-020-00697-w)  |  Link |
+| 2020 | **FauxWard: a graph neural network approach to fauxtography detection using social media comments**  | Social Network Analysis and Mining    |  [Link](https://link.springer.com/article/10.1007/s13278-020-00689-w)  |  Link |
 | 2020 | **A Scalable Framework for Group Fraud Detection in Transaction using Deep Graph Neural Network**  | MLF@KDD 2020   |  [Link](https://drive.google.com/file/d/14CPo4U9nmRClf_62NhVnhJVG5yhQXzEt/view)   |  Link|
 | 2020 | **Early Fraud Detection with Augmented Graph Learning**  | DLG@KDD 2020   |  [Link](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)   |  Link|
 | 2020 | **TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook**  | KDD 2020   |  [Link](https://arxiv.org/pdf/2002.07917.pdf)   |  Link|
@@ -39,6 +47,8 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
 | 2020 | **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection**  | AAAI 2020   |  [Link](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  [Link](https://github.com/TianBian95/BiGCN) |
+
+### Before 2019
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation**  | EMNLP 2019  | [Link](https://www.aclweb.org/anthology/D19-1640.pdf) | [Link](https://github.com/Giruvegan/stoneskipping) |
 | 2019 | **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework**  | CIKM 2019  | [Link](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf) | [Link](https://github.com/safe-graph/DGFraud) |
