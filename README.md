@@ -49,6 +49,8 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  [Link](https://github.com/TianBian95/BiGCN) |
 
 ### Before 2019
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation**  | EMNLP 2019  | [Link](https://www.aclweb.org/anthology/D19-1640.pdf) | [Link](https://github.com/Giruvegan/stoneskipping) |
 | 2019 | **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework**  | CIKM 2019  | [Link](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf) | [Link](https://github.com/safe-graph/DGFraud) |
