@@ -9,6 +9,8 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Improving Cyberbullying Detection with User Interaction**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2011.00449.pdf)  | [Link](https://github.com/gesy17/TGBully) |
+| 2021 | **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection**  | WWW 2021  |  [Link](https://ponderly.github.io/pub/PCGNN_WWW2021.pdf)  | Link |
 | 2021 | **Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets**  | WSDM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743)  | Link |
 | 2021 | **DeepIS: Susceptibility Estimation on Social Networks**  | WSDM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3437963.3441829)  | [Link](https://github.com/xiawenwen49/DeepIS) |
 | 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | Link |
@@ -25,6 +27,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection**  | ICDM 2020   |  [Link](https://cs.nju.edu.cn/liyf/paper/icdm20-hmgnn.pdf)  |  [Link](https://github.com/iqiyi/HMGNN) |
 | 2020 | **xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs**  | arXiv  |  [Link](https://arxiv.org/pdf/2011.12193.pdf)  |  Link |
 | 2020 | **BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising**  | CIKM 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3412690)  |  [Link](https://github.com/mobvistaresearch/CIKM2020-BotSpot) |
+| 2020 | **Alike and Unlike: Resolving Class Imbalance Problem in Financial Credit Risk Assessment**  | CIKM 2020   |  [Link](https://ponderly.github.io/pub/ADAAR_CIKM2020.pdf)  |  Link |
 | 2020 | **Early Anomaly Detection by Learning and Forecasting Behavior** | arXiv |  [Link](https://arxiv.org/pdf/2010.10016.pdf) | Link |
 | 2020 | **ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks**  | arXiv   |  [Link](https://arxiv.org/pdf/2009.14738.pdf)  |  Link |
 | 2020 | **Multivariate Time-series Anomaly Detection via Graph Attention Network**  | ICDM 2020   |  [Link](https://arxiv.org/pdf/2009.02040.pdf)  |  Link |
