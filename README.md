@@ -110,13 +110,25 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2014 | **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective**  | ICDM 2014 | [Link](https://arxiv.org/pdf/1410.3915.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
 
 
-## Useful Resources
+## Toolbox
+
+[DGFraud-TF2: A Deep Graph-based Toolbox for Fraud Detection in TensorFlow 2.0](https://github.com/safe-graph/DGFraud-TF2)
 
 [DGFraud: A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
 
 [UGFraud: An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
 
-[Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+[GNN-based Fake News Detection](https://github.com/safe-graph/GNN-FakeNews)
+
+[Realtime Fraud Detection with GNN on DGL](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl)
+
+
+## Dataset
+[Twitter Fake News Propagation Graph Dataset](https://github.com/safe-graph/GNN-FakeNews)
+
+[Yelp & Amazon Fraud Graph Dataset](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
+
+[IEEE-CIS Fraud Detection Dataset](https://www.kaggle.com/c/ieee-fraud-detection)
 
 [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
 
@@ -126,7 +138,12 @@ A curated list of fraud detection papers using graph information or graph neural
 
 [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
 
+
+## Other Resource
 [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+
+[Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+
 
 ## Survey Papers
 
