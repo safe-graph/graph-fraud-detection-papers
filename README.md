@@ -10,6 +10,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **HIN-RNN: A Graph Representation Learning Neural Network for Fraudster Group Detection With No Handcrafted Features**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2105.11602.pdf)  | Link |
+|2021| **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph** |ICDE 2021|[link](https://arxiv.org/abs/1912.11113)|Link|
 | 2021 | **User Preference-aware Fake News Detection**  | SIGIR 2021  |  [Link](https://arxiv.org/pdf/2104.12259.pdf)  | [Link](https://github.com/safe-graph/GNN-FakeNews) |
 | 2021 | **Temporal-Aware Graph Neural Network for Credit Risk Prediction**  | SDM 2021  |  [Link](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.79)  | Link |
 | 2021 | **Improving Cyberbullying Detection with User Interaction**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2011.00449.pdf)  | [Link](https://github.com/gesy17/TGBully) |
