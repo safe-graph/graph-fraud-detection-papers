@@ -76,6 +76,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | ICDE 2021  |  [Link](https://arxiv.org/pdf/1912.11113.pdf)   |  Link |
 | 2020 | **Network Inference from a Mixture of Diffusion Models for Fake News Mitigation**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2008.03450.pdf) | Link |
 | 2020 | **Uncovering Coordinated Networks on Social Media**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2001.05658.pdf) | Link |
 | 2020 | **AUTOAUDIT: Mining Accounting and Time-Evolving Graphs**  | IEEE BigData 2020  | [Link](https://arxiv.org/pdf/2011.00447.pdf) | [Link](https://github.com/mengchillee/AutoAudit) |
@@ -88,7 +89,6 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/pdf/2004.04834.pdf)   |  Link |
 | 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
 | 2020 | **MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/1911.04464.pdf)   |  [Link](https://github.com/Stream-AD/MIDAS) |
-| 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | arXiv  |  [Link](https://arxiv.org/pdf/1912.11113.pdf)   |  Link |
 | 2020 | **FlowScope: Spotting Money Laundering Based on Graphs**  | AAAI 2020  |  [Link](http://shichuan.org/doc/78.pdf)   |  [Link](https://github.com/aplaceof/FlowScope) |
 | 2019 | **SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs**  | DSAA 2019  |  [Link](https://arxiv.org/pdf/1908.07087.pdf)   |  [Link](https://github.com/hamedn/SliceNDice) |
 | 2019 | **TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial**  | VLDB 2019  |  [Link](https://arxiv.org/pdf/1906.07407.pdf)   |  Link |
