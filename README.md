@@ -3,6 +3,15 @@
 
 A curated list of fraud detection papers using graph information or graph neural networks
 
+**Table of Content**
+- GNN Papers: [2021](#2021) | [2020](#2020) | [Before 2020](#before-2020)
+- [Non-GNN Papers since 2014](#non-gnn-papers-since-2014)
+- [Toolbox](#toolbox)
+- [Dataset](#dataset)
+- [Other Resource](#other-resource)
+- [Survey Paper](survey-paper)
+
+
 
 ## GNN Papers
 
@@ -57,7 +66,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection**  | AAAI 2020   |  [Link](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  [Link](https://github.com/TianBian95/BiGCN) |
 
-### Before 2019
+### Before 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  [Link](https://github.com/safe-graph/DGFraud) |
@@ -70,15 +79,15 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2019 | **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System**  | WWW 2019 Workshop| [Link](https://dl.acm.org/citation.cfm?id=3316586) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2019 | **GeniePath: Graph Neural Networks with Adaptive Receptive Paths**  | AAAI 2019 | [Link](https://arxiv.org/pdf/1802.00910.pdf) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2018 | **Heterogeneous Graph Neural Networks for Malicious Account Detection**  | CIKM 2018 | [Link](https://dl.acm.org/citation.cfm?id=3272010) | [Link](https://github.com/safe-graph/DGFraud) |
-| 2018 | **FraudNE: a Joint Embedding Approach for Fraud Detection**  | IJCNN 2018 | [Link](https://opus.cloud.lib.uts.edu.au/bitstream/10453/133230/4/08489585.pdf) | Link |
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | MLG 2018 | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
 
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2020 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | ICDE 2021  |  [Link](https://arxiv.org/pdf/1912.11113.pdf)   |  Link |
-| 2020 | **Network Inference from a Mixture of Diffusion Models for Fake News Mitigation**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2008.03450.pdf) | Link |
-| 2020 | **Uncovering Coordinated Networks on Social Media**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2001.05658.pdf) | Link |
+| 2021 | **Deep Entity Classification: Abusive Account Detection for Online Social Networks**  | USENIX Security 2021  |  [Link](https://www.usenix.org/system/files/sec21summer_xu.pdf)   |  Link |
+| 2021 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | ICDE 2021  |  [Link](https://arxiv.org/pdf/1912.11113.pdf)   |  Link |
+| 2021 | **Network Inference from a Mixture of Diffusion Models for Fake News Mitigation**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2008.03450.pdf) | Link |
+| 2021 | **Uncovering Coordinated Networks on Social Media**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2001.05658.pdf) | Link |
 | 2020 | **AUTOAUDIT: Mining Accounting and Time-Evolving Graphs**  | IEEE BigData 2020  | [Link](https://arxiv.org/pdf/2011.00447.pdf) | [Link](https://github.com/mengchillee/AutoAudit) |
 | 2020 | **SpecGreedy: Unified Dense Subgraph Detection**  | ECML-PKDD 2020  | [Link](https://shenghua-liu.github.io/papers/pkdd2020_specgreedy.pdf) | [Link](https://github.com/wenchieh/specgreedy) |
 | 2020 | **Real-Time Streaming Anomaly Detection in Dynamic Graphs**  | arXiv   |  [Link](https://arxiv.org/pdf/2009.08452.pdf)  |  [Link](https://github.com/Stream-AD/MIDAS) |
@@ -98,6 +107,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2018 | **FeatNet: Large-scale Fraud Device Detection by Network Representation Learning with Rich Features**  | AiSec 2018 | [Link](https://surrealyz.github.io/files/pubs/featnet-aisec2018.pdf) | Link |
 | 2018 | **HGsuspector: Scalable Collective Fraud Detection in Heterogeneous Graphs**  | KDD 2018 Workshop | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_16.pdf) | Link |
 | 2018 | **Online E-Commerce Fraud: A Large-scale Detection and Analysis**  | ICDE 2018 | [Link](https://nesa.zju.edu.cn/download/Online%20E-Commerce%20Fraud%20A%20Large-scale%20Detection%20and%20Analysis.pdf) | [Link](https://github.com/maianhpuco/alibabaFraud) |
+| 2018 | **FraudNE: a Joint Embedding Approach for Fraud Detection**  | IJCNN 2018 | [Link](https://opus.cloud.lib.uts.edu.au/bitstream/10453/133230/4/08489585.pdf) | Link |
 | 2018 | **Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach**  | WSDM 2018  | [Link](http://faculty.cse.tamu.edu/caverlee/pubs/parisa18wsdm.pdf) | Link |
 | 2018 | **REV2: Fraudulent User Prediction in Rating Platforms**  | WSDM 2018 | [Link](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf) | [Link](https://cs.stanford.edu/~srijan/rev2/) |
 | 2017 | **ZooBP: Belief Propagation for Heterogeneous Networks**  | VLDB 2017 | [Link](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
@@ -108,6 +118,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2017 | **iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection**  | Mobile Information Systems 2017 | [Link](https://downloads.hindawi.com/journals/misy/2017/6412521.pdf) | Link |
 | 2017 | **NetSpam: A Network-Based Spam Detection Framework for Reviews in Online Social Media**  | IEEE TIFS | [Link](https://www.researchgate.net/publication/314160993_NetSpam_A_Network-Based_Spam_Detection_Framework_for_Reviews_in_Online_Social_Media) | Link |
 | 2016 | **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage**  | KDD 2016  | [Link](https://bhooi.github.io/papers/fraudar_kdd16.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
+| 2015 | **AFRAID: Fraud detection via active inference in time-evolving social networks**  | ASONAM 2015 | [Link](http://www.andrew.cmu.edu/user/lakoglu/pubs/15-ASONAM-ActiveInferenceforFraud.pdf) | Link |
 | 2015 | **Collective Opinion Spam Detection: Bridging Review Networks and Metadata**  | KDD 2015 | [Link](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
 | 2014 | **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective**  | ICDM 2014 | [Link](https://arxiv.org/pdf/1410.3915.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
 
@@ -147,7 +158,7 @@ A curated list of fraud detection papers using graph information or graph neural
 [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
 
-## Survey Papers
+## Survey Paper
 
 [Graph Computing for Financial Crime and Fraud Detection: Trends, Challenges and Outlook](https://arxiv.org/pdf/2103.03227.pdf)
 
