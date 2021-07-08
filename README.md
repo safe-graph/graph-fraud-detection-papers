@@ -9,7 +9,7 @@ A curated list of fraud detection papers using graph information or graph neural
 - [Toolbox](#toolbox)
 - [Dataset](#dataset)
 - [Other Resource](#other-resource)
-- [Survey Paper](survey-paper)
+- [Survey Paper](#survey-paper)
 
 
 
