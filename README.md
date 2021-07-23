@@ -18,7 +18,12 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Catch me if you can: A participant-level rumor detection framework via fine-grained user representation learning**  | Information Processing & Management  |  [Link](https://www.sciencedirect.com/science/article/pii/S0306457321001643)  | Link |
+| 2021 | **Decoupling Representation Learning and Classification for GNN-based Anomaly Detection**  | SIGIR 2021  |  [Link](https://dl.acm.org/doi/10.1145/3404835.3462944)  | [Link](https://github.com/wyl7/DCI-pytorch) |
+| 2021 | **Improving fake news detection with domain-adversarial and graph-attention neural network**  | Decision Support Systems  |  [Link](https://www.sciencedirect.com/science/article/pii/S0167923621001433)  | Link |
+| 2021 | **Anomaly Detection in Dynamic Graphs via Transformer**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2106.09876.pdf)  | Link |
 | 2021 | **HIN-RNN: A Graph Representation Learning Neural Network for Fraudster Group Detection With No Handcrafted Features**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2105.11602.pdf)  | Link |
+| 2021 | **Fraud Detection in Online Product Review Systems via Heterogeneous Graph Transformer**  | IEEE Access  |  [Link](https://www.researchgate.net/publication/352008651_Fraud_Detection_in_Online_Product_Review_Systems_via_Heterogeneous_Graph_Transformer)  | Link |
 | 2021 | **User Preference-aware Fake News Detection**  | SIGIR 2021  |  [Link](https://arxiv.org/pdf/2104.12259.pdf)  | [Link](https://github.com/safe-graph/GNN-FakeNews) |
 | 2021 | **Temporal-Aware Graph Neural Network for Credit Risk Prediction**  | SDM 2021  |  [Link](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.79)  | Link |
 | 2021 | **Improving Cyberbullying Detection with User Interaction**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2011.00449.pdf)  | [Link](https://github.com/gesy17/TGBully) |
@@ -88,6 +93,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2021 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | ICDE 2021  |  [Link](https://arxiv.org/pdf/1912.11113.pdf)   |  Link |
 | 2021 | **Network Inference from a Mixture of Diffusion Models for Fake News Mitigation**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2008.03450.pdf) | Link |
 | 2021 | **Uncovering Coordinated Networks on Social Media**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2001.05658.pdf) | Link |
+| 2021 | **F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams**  | WSDM 2021  | [Link](https://arxiv.org/pdf/2011.04723.pdf) | [Link](https://github.com/snap-stanford/F-FADE) |
 | 2020 | **AUTOAUDIT: Mining Accounting and Time-Evolving Graphs**  | IEEE BigData 2020  | [Link](https://arxiv.org/pdf/2011.00447.pdf) | [Link](https://github.com/mengchillee/AutoAudit) |
 | 2020 | **SpecGreedy: Unified Dense Subgraph Detection**  | ECML-PKDD 2020  | [Link](https://shenghua-liu.github.io/papers/pkdd2020_specgreedy.pdf) | [Link](https://github.com/wenchieh/specgreedy) |
 | 2020 | **Real-Time Streaming Anomaly Detection in Dynamic Graphs**  | arXiv   |  [Link](https://arxiv.org/pdf/2009.08452.pdf)  |  [Link](https://github.com/Stream-AD/MIDAS) |
@@ -100,6 +106,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/1911.04464.pdf)   |  [Link](https://github.com/Stream-AD/MIDAS) |
 | 2020 | **FlowScope: Spotting Money Laundering Based on Graphs**  | AAAI 2020  |  [Link](http://shichuan.org/doc/78.pdf)   |  [Link](https://github.com/aplaceof/FlowScope) |
 | 2019 | **SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs**  | DSAA 2019  |  [Link](https://arxiv.org/pdf/1908.07087.pdf)   |  [Link](https://github.com/hamedn/SliceNDice) |
+| 2019 | **From Anomaly Detection to Rumour Detection using Data Streams of Social Platforms**  | VLDB 2019  |  [Link](http://www.vldb.org/pvldb/vol12/p1016-nguyen.pdf)   |  Link |
 | 2019 | **TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial**  | VLDB 2019  |  [Link](https://arxiv.org/pdf/1906.07407.pdf)   |  Link |
 | 2019 | **Spotting Collective Behaviour of Online Frauds in Customer Reviews**  | IJCAI 2019  |  [Link](https://www.ijcai.org/proceedings/2019/0035.pdf)   |  [Link](https://github.com/LCS2-IIITD/DeFrauder) |
 | 2019 | **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism**  | AAAI 2019 | [Link](https://aaai.org/ojs/index.php/AAAI/article/view/3884) | [Link](https://github.com/safe-graph/DGFraud) |
