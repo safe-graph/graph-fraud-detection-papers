@@ -18,7 +18,12 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2021 | **Bipartite Dynamic Representations for Abuse Detection**  | KDD 2021  |  [Link](https://assets.amazon.science/94/8b/bd4d734c4fc89d625baa38296dfc/bipartite-dynamic-representations-for-abuse-detection-kdd-2021.pdf)  | [Link](https://github.com/qema/bidyn) |
+| 2021 | **GCCAD: Graph Contrastive Coding for Anomaly Detection**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2108.07516.pdf)  | [Link](https://github.com/allanchen95/GCCAD) |
+| 2021 | **Recurrent Graph Neural Networks for Rumor Detection in Online Forums**  | KDD 2021 Workshop |  [Link](https://arxiv.org/pdf/2108.03548.pdf)  | Link |
+| 2021 | **Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467168)  | Link |
+| 2021 | **Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467142)  | Link |
+| 2021 | **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467065)  | Link |
+| 2021 | **Bipartite Dynamic Representations for Abuse Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467141)  | [Link](https://github.com/qema/bidyn) |
 | 2021 | **Relational Graph Neural Networks for Fraud Detection in a Super-App environment**  | KDD 2021 Workshop  |  [Link](https://arxiv.org/pdf/2106.09876.pdf)  | Link |
 | 2021 | **Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**  | ACL 2021  |  [Link](https://aclanthology.org/2021.acl-long.62.pdf)  | [Link](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection) |
 | 2021 | **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**  | ACL 2021  |  [Link](https://aclanthology.org/2021.acl-long.297.pdf)  | [Link](https://github.com/weilingwei96/EBGCN) |
@@ -93,6 +98,8 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467094)  | Link |
+| 2021 | **GuiltyWalker: Distance to illicit nodes in the Bitcoin network**  | KDD 2021 Workshop |  [Link](https://arxiv.org/pdf/2102.05373.pdf)  | Link |
 | 2021 | **Deep Entity Classification: Abusive Account Detection for Online Social Networks**  | USENIX Security 2021  |  [Link](https://www.usenix.org/system/files/sec21summer_xu.pdf)   |  Link |
 | 2021 | **EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph**  | ICDE 2021  |  [Link](https://arxiv.org/pdf/1912.11113.pdf)   |  Link |
 | 2021 | **Network Inference from a Mixture of Diffusion Models for Fake News Mitigation**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2008.03450.pdf) | Link |
