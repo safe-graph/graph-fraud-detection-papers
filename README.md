@@ -18,7 +18,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2021 | **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism**  | CIKM 2021  |  Link |
+| 2021 | **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism**  | CIKM 2021  |  Link | Link |
 | 2021 | **Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs**  | CIKM 2021  |  [Link](https://arxiv.org/pdf/2005.07427.pdf)  | Link|
 | 2021 | **Action Sequence Augmentation for Early Graph-based Anomaly Detection**  | CIKM 2021  |  [Link](http://nshah.net/publications/ELAND.CIKM.21.pdf)  | [Link](https://github.com/DM2-ND/Eland) |
 | 2021 | **Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning**  | CIKM 2021  |  [Link](http://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf)  | Link|
