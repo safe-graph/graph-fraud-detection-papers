@@ -18,6 +18,13 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism**  | CIKM 2021  |  Link |
+| 2021 | **Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs**  | CIKM 2021  |  [Link](https://arxiv.org/pdf/2005.07427.pdf)  | Link|
+| 2021 | **Action Sequence Augmentation for Early Graph-based Anomaly Detection**  | CIKM 2021  |  [Link](http://nshah.net/publications/ELAND.CIKM.21.pdf)  | [Link](https://github.com/DM2-ND/Eland) |
+| 2021 | **Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning**  | CIKM 2021  |  [Link](http://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf)  | Link|
+| 2021 | **Hetero-SCAN: Towards Social Context Aware Fake News Detection via Heterogeneous Graph Neural Network**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2109.08022.pdf)  | Link|
+| 2021 | **A Synergistic Approach for Graph Anomaly Detection With Pattern Mining and Feature Learning**  | IEEE TNNLS  |  [Link](https://ieeexplore.ieee.org/abstract/document/9525041)  | [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
+| 2021 | **Cross-domain Graph Anomaly Detection**  | IEEE TNNLS  |  [Link](http://www.public.asu.edu/~kding9/pdf/TNNLS_Commander.pdf)  | [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
 | 2021 | **GCCAD: Graph Contrastive Coding for Anomaly Detection**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2108.07516.pdf)  | [Link](https://github.com/allanchen95/GCCAD) |
 | 2021 | **Recurrent Graph Neural Networks for Rumor Detection in Online Forums**  | KDD 2021 Workshop |  [Link](https://arxiv.org/pdf/2108.03548.pdf)  | Link |
 | 2021 | **Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467168)  | Link |
@@ -98,6 +105,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection**  | CIKM 2021  |  Link | Link |
 | 2021 | **Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467094)  | Link |
 | 2021 | **GuiltyWalker: Distance to illicit nodes in the Bitcoin network**  | KDD 2021 Workshop |  [Link](https://arxiv.org/pdf/2102.05373.pdf)  | Link |
 | 2021 | **Deep Entity Classification: Abusive Account Detection for Online Social Networks**  | USENIX Security 2021  |  [Link](https://www.usenix.org/system/files/sec21summer_xu.pdf)   |  Link |
@@ -180,6 +188,10 @@ A curated list of fraud detection papers using graph information or graph neural
 
 
 ## Survey Paper
+
+[A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://arxiv.org/pdf/2106.07178.pdf)
+
+[Anomaly Mining - Past, Present and Future](https://arxiv.org/pdf/2105.10077.pdf)
 
 [Graph Computing for Financial Crime and Fraud Detection: Trends, Challenges and Outlook](https://arxiv.org/pdf/2103.03227.pdf)
 
