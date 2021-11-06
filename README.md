@@ -18,8 +18,10 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2021 | **Deep Fraud Detection on Non-attributed Graph**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2110.01171.pdf) | Link |
-| 2021 | **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism**  | CIKM 2021  |  Link | Link |
+| 2021 | **Deep Fraud Detection on Non-attributed Graph**  | IEEE BigData 2021  |  [Link](https://arxiv.org/pdf/2110.01171.pdf) | Link |
+| 2021 | **Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media**  | NeurIPS 2021  |  [Link](https://chuxuzhang.github.io/paper/NeurIPS21-MetaHG.pdf) | [Link](https://github.com/Meta-HG/MetaHG) |
+| 2021 | **Prohibited Item Detection on Heterogeneous Risk Graphs**  | CIKM 2021  |  [Link](http://shichuan.org/doc/118.pdf) | Link |
+| 2021 | **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism**  | CIKM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3459637.3482277) | Link |
 | 2021 | **Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs**  | CIKM 2021  |  [Link](https://arxiv.org/pdf/2005.07427.pdf)  | Link|
 | 2021 | **Action Sequence Augmentation for Early Graph-based Anomaly Detection**  | CIKM 2021  |  [Link](http://nshah.net/publications/ELAND.CIKM.21.pdf)  | [Link](https://github.com/DM2-ND/Eland) |
 | 2021 | **Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning**  | CIKM 2021  |  [Link](http://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf)  | Link|
@@ -107,7 +109,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **Customs Fraud Detection in the Presence of Concept Drift**  | ICDMW 2021 |  [Link](https://arxiv.org/pdf/2109.14155.pdf) | Link |
-| 2021 | **Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection**  | CIKM 2021  |  Link | Link |
+| 2021 | **Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection**  | CIKM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3459637.3482325) | Link |
 | 2021 | **Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467094)  | Link |
 | 2021 | **GuiltyWalker: Distance to illicit nodes in the Bitcoin network**  | KDD 2021 Workshop |  [Link](https://arxiv.org/pdf/2102.05373.pdf)  | Link |
 | 2021 | **Deep Entity Classification: Abusive Account Detection for Online Social Networks**  | USENIX Security 2021  |  [Link](https://www.usenix.org/system/files/sec21summer_xu.pdf)   |  Link |
@@ -124,7 +126,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection**  | TrueFact@KDD 2020  | [Link](https://drive.google.com/file/d/1BBNtSQeayy7ozonQbsbXmMdtEKDF4DLi/view) | Link |
 | 2020 | **Representing Fine-Grained Co-Occurrences for Behavior-Based Fraud Detection in Online Payment Services**  | IEEE TDSC 2020   |  [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9085905)   |  Link |
 | 2020 | **Collaboration Based Multi-Label Propagation for Fraud Detection**  | IJCAI 2020  | [Link](https://www.ijcai.org/Proceedings/2020/0343.pdf) | Link |
-| 2020 | **Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation**  | ICWSM 2020  | [Link](http://www.public.asu.edu/~skai2/files/icwsm_20.pdf) | [Link](https://www.dropbox.com/sh/v1nmsdabk4wumcn/AADiRakrTIxx546qaOMNHPTWa?dl=0) |
+| 2020 | **Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation**  | ICWSM 2020  | [Link](https://arxiv.org/pdf/1903.09196.pdf) | [Link](https://www.dropbox.com/sh/v1nmsdabk4wumcn/AADiRakrTIxx546qaOMNHPTWa?dl=0) |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | WWW 2020  |  [Link](https://arxiv.org/pdf/2004.04834.pdf)   |  Link |
 | 2020 | **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network**  | WWW 2020   |  [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)   |  Link |
 | 2020 | **MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/1911.04464.pdf)   |  [Link](https://github.com/Stream-AD/MIDAS) |
