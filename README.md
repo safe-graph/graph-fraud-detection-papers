@@ -46,7 +46,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2021 | **User Preference-aware Fake News Detection**  | SIGIR 2021  |  [Link](https://arxiv.org/pdf/2104.12259.pdf)  | [Link](https://github.com/safe-graph/GNN-FakeNews) |
 | 2021 | **Temporal-Aware Graph Neural Network for Credit Risk Prediction**  | SDM 2021  |  [Link](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.79)  | Link |
 | 2021 | **Improving Cyberbullying Detection with User Interaction**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2011.00449.pdf)  | [Link](https://github.com/gesy17/TGBully) |
-| 2021 | **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection**  | WWW 2021  |  [Link](https://ponderly.github.io/pub/PCGNN_WWW2021.pdf)  | Link |
+| 2021 | **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection**  | WWW 2021  |  [Link](https://ponderly.github.io/pub/PCGNN_WWW2021.pdf)  | [Link](https://github.com/PonderLY/PC-GNN) |
 | 2021 | **Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets**  | WSDM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743)  | Link |
 | 2021 | **DeepIS: Susceptibility Estimation on Social Networks**  | WSDM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3437963.3441829)  | [Link](https://github.com/xiawenwen49/DeepIS) |
 | 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | Link |
