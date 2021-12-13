@@ -18,6 +18,12 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance**  | ICDM 2021  |  Link | Link |
+| 2021 | **Fake Reviewer Group Detection in Online Review Systems**  | ICDM 2021 Workshop  |  Link | Link |
+| 2021 | **Temporal Graph Representation Learning for Detecting Anomalies in E-payment Systems**  | ICDM 2021 Workshop  |  Link | Link |
+| 2021 | **Know-GNN: An Explainable Knowledge-Guided Graph Neural Network for Fraud Detection**  | ICONIP 2021  |  [Link](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_19) | Link |
+| 2021 | **TEGDetector: A Phishing Detector that Knows Evolving Transaction Behaviors**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2111.15446.pdf) | Link |
+| 2021 | **Knowledge-Guided Fraud Detection Using Semi-supervised Graph Neural Network**  | WISE 2021  |  [Link](http://link.springer.com/chapter/10.1007/978-3-030-90888-1_29) | Link |
 | 2021 | **Deep Fraud Detection on Non-attributed Graph**  | IEEE BigData 2021  |  [Link](https://arxiv.org/pdf/2110.01171.pdf) | Link |
 | 2021 | **Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media**  | NeurIPS 2021  |  [Link](https://chuxuzhang.github.io/paper/NeurIPS21-MetaHG.pdf) | [Link](https://github.com/Meta-HG/MetaHG) |
 | 2021 | **Prohibited Item Detection on Heterogeneous Risk Graphs**  | CIKM 2021  |  [Link](http://shichuan.org/doc/118.pdf) | Link |
@@ -56,6 +62,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks**  | AAAI 2021 Workshop  |  [Link](https://arxiv.org/pdf/2012.10831.pdf)  | Link |
+| 2020 | **Phishing Scams Detection in Ethereum Transaction Network**  | ACM TOIT  |  [Link](https://dl.acm.org/doi/10.1145/3398071)  | Link |
 | 2020 | **APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding**  | SIGMOD 2021  |  [Link](https://arxiv.org/pdf/2011.11545.pdf)  | Link |
 | 2020 | **Anomaly Detection on Dynamic Bipartite Graph with Burstiness**  | ICDM 2020   |  [Link](https://ieeexplore.ieee.org/document/9338258)  | Link |
 | 2020 | **Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market**  | ICDM 2020   |  [Link](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/metagraph.pdf)  | Link |
@@ -175,6 +182,8 @@ A curated list of fraud detection papers using graph information or graph neural
 [Twitter Fake News Propagation Graph Dataset](https://github.com/safe-graph/GNN-FakeNews)
 
 [Yelp & Amazon Fraud Graph Dataset](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
+
+[Ethereum Phishing Transaction Network](http://xblock.pro/tx/)
 
 [IEEE-CIS Fraud Detection Dataset](https://www.kaggle.com/c/ieee-fraud-detection)
 
