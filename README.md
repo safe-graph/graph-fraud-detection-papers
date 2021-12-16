@@ -26,6 +26,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2021 | **Knowledge-Guided Fraud Detection Using Semi-supervised Graph Neural Network**  | WISE 2021  |  [Link](http://link.springer.com/chapter/10.1007/978-3-030-90888-1_29) | Link |
 | 2021 | **Deep Fraud Detection on Non-attributed Graph**  | IEEE BigData 2021  |  [Link](https://arxiv.org/pdf/2110.01171.pdf) | Link |
 | 2021 | **Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media**  | NeurIPS 2021  |  [Link](https://chuxuzhang.github.io/paper/NeurIPS21-MetaHG.pdf) | [Link](https://github.com/Meta-HG/MetaHG) |
+|2021  | **ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning** | CIKM 2021 |[Link](https://shiruipan.github.io/publication/cikm-21-jin/cikm-21-jin.pdf)| [Link](https://github.com/GRAND-Lab/ANEMONE)|
 | 2021 | **Prohibited Item Detection on Heterogeneous Risk Graphs**  | CIKM 2021  |  [Link](http://shichuan.org/doc/118.pdf) | Link |
 | 2021 | **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism**  | CIKM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3459637.3482277) | Link |
 | 2021 | **Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs**  | CIKM 2021  |  [Link](https://arxiv.org/pdf/2005.07427.pdf)  | Link|
@@ -61,6 +62,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+|2020| **Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning**| TNNLS|[link](https://arxiv.org/abs/2103.00113)|[link](https://github.com/GRAND-Lab/CoLA)|
 | 2020 | **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks**  | AAAI 2021 Workshop  |  [Link](https://arxiv.org/pdf/2012.10831.pdf)  | Link |
 | 2020 | **Phishing Scams Detection in Ethereum Transaction Network**  | ACM TOIT  |  [Link](https://dl.acm.org/doi/10.1145/3398071)  | Link |
 | 2020 | **APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding**  | SIGMOD 2021  |  [Link](https://arxiv.org/pdf/2011.11545.pdf)  | Link |
