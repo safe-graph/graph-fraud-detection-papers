@@ -119,6 +119,8 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 | **Knowledge Sharing via Domain Adaptation in Customs Fraud Detection**  | AAAI 2022  | [Link](https://arxiv.org/abs/2201.06759) | Link |
+| 2022 | **Active Learning for Human-in-the-Loop Customs Inspection**  | TKDE 2022  | [Link](https://ieeexplore.ieee.org/document/9695316) | [Link](https://github.com/Seondong/Customs-Fraud-Detection) |
 | 2021 | **Analytical Models for Motifs in Temporal Networks: Discovering Trends and Anomalies**  | arXiv 2021 |  [Link](https://arxiv.org/pdf/2112.14871.pdf) | [Link](https://www.dropbox.com/sh/81tkcf1amemmq2i/AAC2k1vdX2DhsbFQz9LCzovEa?dl=0) |
 | 2021 | **Customs Fraud Detection in the Presence of Concept Drift**  | ICDMW 2021 |  [Link](https://arxiv.org/pdf/2109.14155.pdf) | Link |
 | 2021 | **Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection**  | CIKM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3459637.3482325) | Link |
@@ -130,7 +132,6 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2021 | **Uncovering Coordinated Networks on Social Media**  | ICWSM 2021  | [Link](https://arxiv.org/pdf/2001.05658.pdf) | Link |
 | 2021 | **F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams**  | WSDM 2021  | [Link](https://arxiv.org/pdf/2011.04723.pdf) | [Link](https://github.com/snap-stanford/F-FADE) |
 | 2020 | **AUTOAUDIT: Mining Accounting and Time-Evolving Graphs**  | IEEE BigData 2020  | [Link](https://arxiv.org/pdf/2011.00447.pdf) | [Link](https://github.com/mengchillee/AutoAudit) |
-| 2020 | **Take a Chance: Managing the Exploitation-Exploration Dilemma in Customs Fraud Detection via Online Active Learning**  | arXiv 2020  | [Link](https://arxiv.org/pdf/2010.14282.pdf) | [Link](https://github.com/Seondong/Customs-Fraud-Detection) |
 | 2020 | **SpecGreedy: Unified Dense Subgraph Detection**  | ECML-PKDD 2020  | [Link](https://shenghua-liu.github.io/papers/pkdd2020_specgreedy.pdf) | [Link](https://github.com/wenchieh/specgreedy) |
 | 2020 | **Real-Time Streaming Anomaly Detection in Dynamic Graphs**  | arXiv   |  [Link](https://arxiv.org/pdf/2009.08452.pdf)  |  [Link](https://github.com/Stream-AD/MIDAS) |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | KDD 2020  | [Link](https://arxiv.org/pdf/2006.06069.pdf) | [Link](https://github.com/YingtongDou/Nash-Detect) |
