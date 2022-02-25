@@ -4,7 +4,7 @@
 A curated list of fraud detection papers using graph information or graph neural networks
 
 **Table of Content**
-- GNN Papers: [2021](#2021) | [2020](#2020) | [Before 2020](#before-2020)
+- GNN Papers: [2022](#2022) | [2021](#2021) | [2020](#2020) | [Before 2020](#before-2020)
 - [Non-GNN Papers since 2014](#non-gnn-papers-since-2014)
 - [Toolbox](#toolbox)
 - [Dataset](#dataset)
@@ -14,6 +14,17 @@ A curated list of fraud detection papers using graph information or graph neural
 
 
 ## GNN Papers
+
+### 2022
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2022 | **Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2202.06580.pdf) | Link |
+| 2022 | **BotSpot++: A Hierarchical Deep Ensemble Model for Bots Install Fraud Detection in Mobile Advertising**  | ACM TOIS 2022 |  [Link](https://dl.acm.org/doi/10.1145/3476107) | [Link](https://github.com/mobvistaresearch/BotSpot-Plus) |
+| 2022 | **Inductive Graph Representation Learning for fraud detection**  | Expert Systems with Applications 2022 |  [Link](https://www.sciencedirect.com/science/article/pii/S0957417421017449) | [Link](https://github.com/Charlesvandamme/Inductive-Graph-Representation-Learning-for-Fraud-Detection) |
+| 2022 | **Improving Fraud Detection via Hierarchical Attention-based Graph Neural Network**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2202.06096.pdf) | Link |
+| 2022 | **Markov-Driven Graph Convolutional Networksfor Social Spammer Detection**  | IEEE TKDE 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9712381) | [Link](https://github.com/dleyan/MDGCN) |
+| 2022 | **Deep Graph Learning for Anomalous Citation Detection**  | IEEE TNNLS 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9712381) | Link |
+
 
 ### 2021
 | Year   | Title  | Venue |  Paper | Code  |
@@ -119,6 +130,7 @@ A curated list of fraud detection papers using graph information or graph neural
 ## Non-GNN Papers since 2014
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 | **eRiskCom: an e-commerce risky community detection platform**  | VLDB Journal 2022 |  [Link](https://link.springer.com/article/10.1007/s00778-021-00723-z) | Link |
 | 2022 | **Knowledge Sharing via Domain Adaptation in Customs Fraud Detection**  | AAAI 2022  | [Link](https://arxiv.org/abs/2201.06759) | Link |
 | 2022 | **Active Learning for Human-in-the-Loop Customs Inspection**  | TKDE 2022  | [Link](https://ieeexplore.ieee.org/document/9695316) | [Link](https://github.com/Seondong/Customs-Fraud-Detection) |
 | 2021 | **Analytical Models for Motifs in Temporal Networks: Discovering Trends and Anomalies**  | arXiv 2021 |  [Link](https://arxiv.org/pdf/2112.14871.pdf) | [Link](https://www.dropbox.com/sh/81tkcf1amemmq2i/AAC2k1vdX2DhsbFQz9LCzovEa?dl=0) |
@@ -204,13 +216,17 @@ A curated list of fraud detection papers using graph information or graph neural
 
 ## Other Resources
 
-[伊利诺伊大学窦英通：基于图神经网络的欺诈检测](https://zhuanlan.zhihu.com/p/457105796)
+[\[Blog\] 伊利诺伊大学窦英通：基于图神经网络的欺诈检测](https://zhuanlan.zhihu.com/p/457105796)
 
-[Graph Neural Network-based Fraud Detection -- from Research to Application](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)
+[\[Slides\] Graph Neural Network-based Fraud Detection -- from Research to Application](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)
 
-[Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+[\[Video\] Fraud Detection with Graph Neural Networks](https://youtu.be/MZGuz-o7Fl0)
 
-[Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+[\[Video\] Fake News Detection using Graphs with Pytorch Geometric](https://youtu.be/QAIVFr24FrA) 
+
+[\[Paper List\] Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+
+[\[Paper List\] Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
 
 ## Survey Paper
