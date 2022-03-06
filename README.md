@@ -54,7 +54,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2021 | **Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467142)  | Link |
 | 2021 | **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467065)  | Link |
 | 2021 | **Bipartite Dynamic Representations for Abuse Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467141)  | [Link](https://github.com/qema/bidyn) |
-| 2021 | **Relational Graph Neural Networks for Fraud Detection in a Super-App environment**  | KDD 2021 Workshop  |  [Link](https://arxiv.org/pdf/2106.09876.pdf)  | Link |
+| 2021 | **Relational Graph Neural Networks for Fraud Detection in a Super-App environment**  | KDD 2021 Workshop  |  [Link](https://arxiv.org/pdf/2107.13673.pdf)  | Link |
 | 2021 | **Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**  | ACL 2021  |  [Link](https://aclanthology.org/2021.acl-long.62.pdf)  | [Link](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection) |
 | 2021 | **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**  | ACL 2021  |  [Link](https://aclanthology.org/2021.acl-long.297.pdf)  | [Link](https://github.com/weilingwei96/EBGCN) |
 | 2021 | **Catch me if you can: A participant-level rumor detection framework via fine-grained user representation learning**  | Information Processing & Management  |  [Link](https://www.sciencedirect.com/science/article/pii/S0306457321001643)  | Link |
@@ -107,7 +107,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **DFraud3-Multi-Component Fraud Detection free of Cold-start**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2006.05718.pdf)   |  Link |
 | 2020 | **Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0643.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Graph Structured Adversarial Learning**  | IJCAI 2020   |  [Link](https://www.ijcai.org/Proceedings/2020/0197.pdf)   |  Link |
-| 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/pdf/2005.10150.pdf)   |  Link |
+| 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/pdf/2005.10150.pdf)   |  [Link](https://github.com/zsjdddhr/GraphRfi) |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
 | 2020 | **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection**  | AAAI 2020   |  [Link](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  [Link](https://github.com/TianBian95/BiGCN) |
