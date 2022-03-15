@@ -23,7 +23,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2022 | **Inductive Graph Representation Learning for fraud detection**  | Expert Systems with Applications 2022 |  [Link](https://www.sciencedirect.com/science/article/pii/S0957417421017449) | [Link](https://github.com/Charlesvandamme/Inductive-Graph-Representation-Learning-for-Fraud-Detection) |
 | 2022 | **Improving Fraud Detection via Hierarchical Attention-based Graph Neural Network**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2202.06096.pdf) | Link |
 | 2022 | **Markov-Driven Graph Convolutional Networksfor Social Spammer Detection**  | IEEE TKDE 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9712381) | [Link](https://github.com/dleyan/MDGCN) |
-| 2022 | **Deep Graph Learning for Anomalous Citation Detection**  | IEEE TNNLS 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9712381) | Link |
+| 2022 | **Deep Graph Learning for Anomalous Citation Detection**  | IEEE TNNLS 2022 |  [Link](https://arxiv.org/pdf/2202.11360.pdf) | Link |
 
 
 ### 2021
