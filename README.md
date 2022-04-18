@@ -18,6 +18,11 @@ A curated list of fraud detection papers using graph information or graph neural
 ### 2022
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 | **Prohibited Item Detection via Risk Graph Structure Learning**  | WWW 2022 |  Link | Link |
+| 2022 | **TTAGN:Temporal Transaction Aggregation Graph Network For Ethereum Phishing Scams Detection**  | WWW 2022 |  Link | Link |
+| 2022 | **AUC-oriented Graph Neural Network for Fraud Detection**  | WWW 2022 |  [Link](https://ponderly.github.io/pub/AOGNN_WWW2022.pdf) | Link |
+| 2022 | **Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection**  | DASFAA 2022 |  [Link](https://ponderly.github.io/pub/BLS_DASFAA2022.pdf) | Link |
+| 2022 | **Nowhere to Hide: Online Rumor Detection Based on Retweeting Graph Neural Networks**  | IEEE TNNLS 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9750388) | Link |
 | 2022 | **Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2202.06580.pdf) | Link |
 | 2022 | **BotSpot++: A Hierarchical Deep Ensemble Model for Bots Install Fraud Detection in Mobile Advertising**  | ACM TOIS 2022 |  [Link](https://dl.acm.org/doi/10.1145/3476107) | [Link](https://github.com/mobvistaresearch/BotSpot-Plus) |
 | 2022 | **Inductive Graph Representation Learning for fraud detection**  | Expert Systems with Applications 2022 |  [Link](https://www.sciencedirect.com/science/article/pii/S0957417421017449) | [Link](https://github.com/Charlesvandamme/Inductive-Graph-Representation-Learning-for-Fraud-Detection) |
@@ -185,6 +190,8 @@ A curated list of fraud detection papers using graph information or graph neural
 
 ## Toolbox
 
+[PyGOD: A Python Library for Graph Outlier Detection (Anomaly Detection)](https://github.com/pygod-team/pygod)
+
 [DGFraud-TF2: A Deep Graph-based Toolbox for Fraud Detection in TensorFlow 2.0](https://github.com/safe-graph/DGFraud-TF2)
 
 [DGFraud: A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
@@ -214,7 +221,9 @@ A curated list of fraud detection papers using graph information or graph neural
 [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
 
 
-## Other Resources
+## Other Resource
+
+[\[Slides\] Graph Learning in Financial Networks by Jiaxuan You](https://snap.stanford.edu/graphlearning-workshop/slides/stanford_graph_learning_Finance.pdf)
 
 [\[Blog\] 伊利诺伊大学窦英通：基于图神经网络的欺诈检测](https://zhuanlan.zhihu.com/p/457105796)
 
@@ -230,6 +239,8 @@ A curated list of fraud detection papers using graph information or graph neural
 
 
 ## Survey Paper
+
+[Intelligent financial fraud detection practices in post-pandemic era](https://www.sciencedirect.com/science/article/pii/S2666675821001016)
 
 [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://arxiv.org/pdf/2106.07178.pdf)
 
