@@ -1,21 +1,19 @@
 # Graph-based Fraud Detection Papers and Resources
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of fraud detection papers using graph information or graph neural networks
-
 **Table of Content**
-- GNN Papers: [2022](#2022) | [2021](#2021) | [2020](#2020) | [Before 2020](#before-2020)
-- [Non-GNN Papers since 2014](#non-gnn-papers-since-2014)
-- [Toolbox](#toolbox)
-- [Dataset](#dataset)
-- [Other Resources](#other-resources)
-- [Survey Paper](#survey-paper)
+- GNN Papers: [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
+- [Non-GNN Papers since 2014](#non-gnn-papers-since-2014-back-to-top)
+- [Toolbox](#toolbox-back-to-top)
+- [Dataset](#dataset-back-to-top)
+- [Other Resource](#other-resource-back-to-top)
+- [Survey Paper](#survey-paper-back-to-top)
 
 
 
 ## GNN Papers
 
-### 2022
+### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2022 | **Benchmarking Node Outlier Detection on Graphs**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2206.10071.pdf) | [Link](https://github.com/pygod-team/pygod/tree/main/benchmark) |
@@ -37,7 +35,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2022 | **Deep Graph Learning for Anomalous Citation Detection**  | IEEE TNNLS 2022 |  [Link](https://arxiv.org/pdf/2202.11360.pdf) | Link |
 
 
-### 2021
+### 2021 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks**  | ACM TOIS 2021 |  [Link](https://www.researchgate.net/publication/353353148_eFraudCom_An_E-commerce_Fraud_Detection_System_via_Competitive_Graph_Neural_Networks) | [Link](https://github.com/GeZhangMQ/eFraudCom) |
@@ -84,7 +82,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | Link |
 | 2021 | **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field**  | AAAI 2021  |  [Link](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)  | Link |
 
-### 2020
+### 2020 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 |2020| **Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning**| TNNLS|[link](https://arxiv.org/abs/2103.00113)|[link](https://github.com/GRAND-Lab/CoLA)|
@@ -124,7 +122,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2020 | **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection**  | AAAI 2020   |  [Link](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  [Link](https://github.com/TianBian95/BiGCN) |
 
-### Before 2020
+### Before 2020 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2019 | **A Semi-supervised Graph Attentive Network for Fraud Detection**  | ICDM 2019  |  [Link](https://ieeexplore.ieee.org/document/8970829)   |  [Link](https://github.com/safe-graph/DGFraud-TF2/tree/main/algorithms/SemiGNN) |
@@ -139,7 +137,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2018 | **Heterogeneous Graph Neural Networks for Malicious Account Detection**  | CIKM 2018 | [Link](https://arxiv.org/pdf/2002.12307.pdf) | [Link](https://github.com/safe-graph/DGFraud-TF2/tree/main/algorithms/GEM) |
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | MLG 2018 | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
 
-## Non-GNN Papers since 2014
+## Non-GNN Papers since 2014 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2022 | **Adaptive Label Propagation for Group Anomaly Detection in Large-scale Networks**  | TKDE 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9779570) | Link |
@@ -199,7 +197,7 @@ A curated list of fraud detection papers using graph information or graph neural
 | 2014 | **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective**  | ICDM 2014 | [Link](https://arxiv.org/pdf/1410.3915.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
 
 
-## Toolbox
+## Toolbox [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 
 [PyGOD: A Python Library for Graph Outlier Detection (Anomaly Detection)](https://github.com/pygod-team/pygod)
 
@@ -214,13 +212,15 @@ A curated list of fraud detection papers using graph information or graph neural
 [Realtime Fraud Detection with GNN on DGL](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl)
 
 
-## Dataset
+## Dataset [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 
 [Node Outlier Detection Benchmark Dataset](https://github.com/pygod-team/pygod/tree/main/benchmark)
 
 [Twitter Fake News Propagation Graph Dataset](https://github.com/safe-graph/GNN-FakeNews)
 
 [Yelp & Amazon Fraud Graph Dataset](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
+
+[Risk Commodities Detection on Large-Scale E-commerce Graphs](https://tianchi.aliyun.com/competition/entrance/531976/introduction?lang=en-us)
 
 [Fraudster Nodes in Dynamic Financial Social Network](https://dgraph.xinye.com/dataset)
 
@@ -239,7 +239,7 @@ A curated list of fraud detection papers using graph information or graph neural
 [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
 
 
-## Other Resource
+## Other Resource [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 
 [\[Slides\] Graph Learning in Financial Networks by Jiaxuan You](https://snap.stanford.edu/graphlearning-workshop/slides/stanford_graph_learning_Finance.pdf)
 
@@ -256,7 +256,7 @@ A curated list of fraud detection papers using graph information or graph neural
 [\[Paper List\] Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
 
-## Survey Paper
+## Survey Paper [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 
 [Intelligent financial fraud detection practices in post-pandemic era](https://www.sciencedirect.com/science/article/pii/S2666675821001016)
 
