@@ -56,7 +56,7 @@
 | 2021 | **Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning**  | CIKM 2021  |  [Link](http://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf)  | Link|
 | 2021 | **Hetero-SCAN: Towards Social Context Aware Fake News Detection via Heterogeneous Graph Neural Network**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2109.08022.pdf)  | Link|
 | 2021 | **A Synergistic Approach for Graph Anomaly Detection With Pattern Mining and Feature Learning**  | IEEE TNNLS  |  [Link](https://ieeexplore.ieee.org/abstract/document/9525041)  | [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
-| 2021 | **Cross-domain Graph Anomaly Detection**  | IEEE TNNLS  |  [Link](http://www.public.asu.edu/~kding9/pdf/TNNLS_Commander.pdf)  | [Link](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
+| 2021 | **Cross-domain Graph Anomaly Detection**  | IEEE TNNLS  |  [Link](http://www.public.asu.edu/~kding9/pdf/TNNLS_Commander.pdf)  | Link |
 | 2021 | **GCCAD: Graph Contrastive Coding for Anomaly Detection**  | arXiv 2021  |  [Link](https://arxiv.org/pdf/2108.07516.pdf)  | [Link](https://github.com/allanchen95/GCCAD) |
 | 2021 | **Recurrent Graph Neural Networks for Rumor Detection in Online Forums**  | KDD 2021 Workshop |  [Link](https://arxiv.org/pdf/2108.03548.pdf)  | Link |
 | 2021 | **Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467168)  | Link |
