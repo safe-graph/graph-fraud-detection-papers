@@ -16,10 +16,22 @@
 ### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2022 | **Benchmarking Node Outlier Detection on Graphs**  | NeurIPS 2022 |  [Link](https://arxiv.org/pdf/2206.10071.pdf) | [Link](https://github.com/pygod-team/pygod/tree/main/benchmark) |
+| 2022 | **EvAnGCN: Evolving Graph Deep Neural Network Based Anomaly Detection in Blockchain**  | ADMA 2022 |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-22064-7_32) | Link |
+| 2022 | **Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection**  | NeurIPS 2022 |  [Link](https://openreview.net/pdf?id=d6mf9AFoR-O) | [Link](https://github.com/graph-level-anomalies/iGAD) |
+| 2022 | **Are we really making much progress in unsupervised graph outlier detection? Revisiting the problem with new insight and superior method**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2210.12941.pdf) | Link |
+| 2022 | **SybilFlyover: Heterogeneous graph-based fake account detection model on social networks**  | Knowledge-Based Systems |  [Link](https://doi.org/10.1016/j.knosys.2022.110038) | Link |
+| 2022 | **Guided Self-Training based Semi-Supervised Learning for Fraud Detection**  | ACM ICAIF 2022 |  [Link](https://dl.acm.org/doi/abs/10.1145/3533271.3561783) | Link |
+| 2022 | **DAGAD: Data Augmentation for Graph Anomaly Detection**  | ICDM 2022 |  [Link](https://arxiv.org/pdf/2210.09766.pdf) | [Link](https://github.com/FanzhenLiu/DAGAD) |
+| 2022 | **Graph Anomaly Detection with Unsupervised GNNs**  | ICDM 2022 |  [Link](https://arxiv.org/pdf/2210.09535.pdf) | [Link](https://github.com/sawlani/GLAM) |
+| 2022 | **A Unified Propagation Forest-based Framework for Fake News Detection**  | COLING 2022 |  [Link](https://aclanthology.org/2022.coling-1.244.pdf) | Link |
+| 2022 | **Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2210.05498.pdf) | [Link](https://github.com/CRIPAC-DIG/GETRAL) |
+| 2022 | **BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs**  | NeurIPS 2022 |  [Link](https://arxiv.org/pdf/2206.10071.pdf) | [Link](https://github.com/pygod-team/pygod/tree/main/benchmark) |
 | 2022 | **DGraph: A Large-Scale Financial Dataset for Graph Anomaly Detection**  | NeurIPS 2022 |  [Link](https://arxiv.org/pdf/2207.03579.pdf) | [Link](https://github.com/DGraphXinye/DGraphFin_baseline) |
+| 2022 | **Dual-Augment Graph Neural Network for Fraud Detection**  | CIKM 2022  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3511808.3557586)  | Link |
 | 2022 | **Explainable Graph-based Fraud Detection via Neural Meta-graph Search**  | CIKM 2022  |  [Link](https://ponderly.github.io/pub/NGS_CIKM2022.pdf)  | Link |
+| 2022 | **Domain-Aware Federated Social Bot Detection with Multi-Relational Graph Neural Networks**  | IJCNN 2022  |  [Link](http://www.liyangyang.com/wp-content/uploads/2022/10/IJCNN22-Bot-YangyangLi.pdf)  | Link |
 | 2022 | **GCCAD: Graph Contrastive Coding for Anomaly Detection**  | IEEE TKDE 2022  |  [Link](https://arxiv.org/pdf/2108.07516.pdf)  | [Link](https://github.com/allanchen95/GCCAD) |
+| 2022 | **Reinforcement Subgraph Reasoning for Fake News Detection**  | KDD 2022 |  [Link](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/KDD2022_FakeNewsDetection_camera_ready.pdf) | Link |
 | 2022 | **ROLAND: Graph Learning Framework for Dynamic Graphs**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2208.07239.pdf) | [Link](https://github.com/snap-stanford/roland) |
 | 2022 | **Hierarchical Multi-Modal Fusion on Dynamic Heterogeneous Graph for Health Insurance Fraud Detection**  | IEEE ICME 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9859871/) | Link |
 | 2022 | **Graph-Aware Deep Fusion Networks for Online Spam Review Detection**  | IEEE TCSS 2022 |  [Link](https://ieeexplore.ieee.org/document/9833456) | Link |
@@ -42,7 +54,7 @@
 | 2022 | **Improving Fraud Detection via Hierarchical Attention-based Graph Neural Network**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2202.06096.pdf) | Link |
 | 2022 | **Markov-Driven Graph Convolutional Networksfor Social Spammer Detection**  | IEEE TKDE 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9712381) | [Link](https://github.com/dleyan/MDGCN) |
 | 2022 | **Deep Graph Learning for Anomalous Citation Detection**  | IEEE TNNLS 2022 |  [Link](https://arxiv.org/pdf/2202.11360.pdf) | Link |
-
+| 2022 | **Towards Fine-Grained Reasoning for Fake News Detection**  | AAAI 2022 |  [Link](https://arxiv.org/pdf/2110.15064.pdf) | [Link](https://github.com/Ahren09/FinerFact) |
 
 ### 2021 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
@@ -148,6 +160,8 @@
 ## Non-GNN Papers since 2014 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 | **Spade: A Real-Time Fraud Detection Framework on Evolving Graphs**  | VLDB 2023 |  [Link](https://arxiv.org/pdf/2211.06977.pdf) | Link |
+| 2022 | **Temporal burstiness and collaborative camouflage aware fraud detection**  | IPM 2023 |  [Link](https://doi.org/10.1016/j.ipm.2022.103170) | Link |
 | 2022 | **AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2205.13426.pdf) | [Link](https://github.com/tsourakakis-lab/antibenford-subgraphs) |
 | 2022 | **Internet Financial Fraud Detection Based on Graph Learning**  | IEEE TCSS 2022 |  [Link](https://ieeexplore.ieee.org/document/9831118) | Link |
 | 2022 | **Exploiting Anomalous Structural Nodes in Dynamic Social Networks**  | WWW 2022 Workshop |  [Link](https://dl.acm.org/doi/abs/10.1145/3487553.3524189) | Link |
@@ -272,6 +286,8 @@
 
 
 ## Survey Paper [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+
+[Graph Learning for Anomaly Analytics: Algorithms, Applications, and Challenges](https://dl.acm.org/doi/pdf/10.1145/3570906)
 
 [A Comprehensive Survey of Graph-based Deep Learning Approaches for Anomaly Detection in Complex Distributed Systems](https://arxiv.org/pdf/2206.04149.pdf)
 
