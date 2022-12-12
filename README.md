@@ -33,6 +33,7 @@
 | 2022 | **GCCAD: Graph Contrastive Coding for Anomaly Detection**  | IEEE TKDE 2022  |  [Link](https://arxiv.org/pdf/2108.07516.pdf)  | [Link](https://github.com/allanchen95/GCCAD) |
 | 2022 | **Reinforcement Subgraph Reasoning for Fake News Detection**  | KDD 2022 |  [Link](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/KDD2022_FakeNewsDetection_camera_ready.pdf) | Link |
 | 2022 | **ROLAND: Graph Learning Framework for Dynamic Graphs**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2208.07239.pdf) | [Link](https://github.com/snap-stanford/roland) |
+| 2022 | **Subset Node Anomaly Tracking over Large Dynamic Graphs**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2205.09786.pdf) | [Link](https://github.com/zjlxgxz/DynAnom) |
 | 2022 | **Hierarchical Multi-Modal Fusion on Dynamic Heterogeneous Graph for Health Insurance Fraud Detection**  | IEEE ICME 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9859871/) | Link |
 | 2022 | **Graph-Aware Deep Fusion Networks for Online Spam Review Detection**  | IEEE TCSS 2022 |  [Link](https://ieeexplore.ieee.org/document/9833456) | Link |
 | 2022 | **Modeling User Behavior With Interaction Networks for Spam Detection**  | SIGIR 2022 |  [Link](https://arxiv.org/pdf/2207.10767.pdf) | Link |
