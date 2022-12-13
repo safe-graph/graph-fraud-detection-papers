@@ -163,6 +163,7 @@
 | 2022 | **Spade: A Real-Time Fraud Detection Framework on Evolving Graphs**  | VLDB 2023 |  [Link](https://arxiv.org/pdf/2211.06977.pdf) | Link |
 | 2022 | **Temporal burstiness and collaborative camouflage aware fraud detection**  | IPM 2023 |  [Link](https://doi.org/10.1016/j.ipm.2022.103170) | Link |
 | 2022 | **AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2205.13426.pdf) | [Link](https://github.com/tsourakakis-lab/antibenford-subgraphs) |
+| 2022 | **Subset Node Anomaly Tracking over Large Dynamic Graphs**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2205.09786.pdf) | [Link](https://github.com/zjlxgxz/DynAnom) |
 | 2022 | **Internet Financial Fraud Detection Based on Graph Learning**  | IEEE TCSS 2022 |  [Link](https://ieeexplore.ieee.org/document/9831118) | Link |
 | 2022 | **Exploiting Anomalous Structural Nodes in Dynamic Social Networks**  | WWW 2022 Workshop |  [Link](https://dl.acm.org/doi/abs/10.1145/3487553.3524189) | Link |
 | 2022 | **Adaptive Label Propagation for Group Anomaly Detection in Large-scale Networks**  | IEEE TKDE 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9779570) | Link |
