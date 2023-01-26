@@ -99,7 +99,7 @@
 | 2021 | **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection**  | WWW 2021  |  [Link](https://ponderly.github.io/pub/PCGNN_WWW2021.pdf)  | [Link](https://github.com/PonderLY/PC-GNN) |
 | 2021 | **Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets**  | WSDM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743)  | Link |
 | 2021 | **DeepIS: Susceptibility Estimation on Social Networks**  | WSDM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3437963.3441829)  | [Link](https://github.com/xiawenwen49/DeepIS) |
-| 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | Link |
+| 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | [Link](https://github.com/kaize0409/Meta-GDN_AnomalyDetection) |
 | 2021 | **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field**  | AAAI 2021  |  [Link](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)  | Link |
 
 ### 2020 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
