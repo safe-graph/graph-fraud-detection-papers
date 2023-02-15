@@ -16,7 +16,7 @@
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2023 | <div style="width: 260pt">**Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum**  | WWW 2023 |  [Link](https://blacksingular.github.io/papers/www23-GHRN.pdf) | [Link](https://github.com/blacksingular/GHRN) |
+| 2023 | **Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum**  | WWW 2023 |  [Link](https://blacksingular.github.io/papers/www23-GHRN.pdf) | [Link](https://github.com/blacksingular/GHRN) |
 
 ### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
