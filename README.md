@@ -180,6 +180,7 @@
 | 2019 | **GeniePath: Graph Neural Networks with Adaptive Receptive Paths**  | AAAI 2019 | [Link](https://arxiv.org/pdf/1802.00910.pdf) | [Link](https://github.com/safe-graph/DGFraud) |
 | 2018 | **Heterogeneous Graph Neural Networks for Malicious Account Detection**  | CIKM 2018 | [Link](https://arxiv.org/pdf/2002.12307.pdf) | [Link](https://github.com/safe-graph/DGFraud-TF2/tree/main/algorithms/GEM) |
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | KDD 2018 Workshop | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
+| 2018 | **Selective Graph Attention Networks for Account Takeover Detection**  | ICDM 2018 Workshop | [Link](https://ieeexplore.ieee.org/document/8637408) | Link |
 
 ## Non-GNN Papers since 2014 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
