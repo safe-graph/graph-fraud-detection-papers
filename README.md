@@ -17,8 +17,7 @@
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-|2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood
-Reconstruction | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [link](https://github.com/Graph-COM/GAD-NR) | 
+|2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [link](https://github.com/Graph-COM/GAD-NR) | 
 | 2023 | **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/abs/2306.00006) |  [link](https://github.com/mala-lab/TAM-master/) |
 | 2023 | **Anti-Money Laundering by Group-Aware Deep Graph Learning** | IEEE TKDE | [Link](https://doi.org/10.1109/TKDE.2023.3272396) | Link |
 | 2023 | **Semi-Supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation** | AAAI 2023 | [Link](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf) | [link](https://github.com/finint/antifraud) |
