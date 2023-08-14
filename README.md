@@ -17,11 +17,37 @@
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-|2023 | **Interaction-Focused Anomaly Detection on Bipartite Node-and-Edge-Attributed Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191331) |  [link](https://github.com/grab/GraphBEAN) | 
-|2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [link](https://github.com/Graph-COM/GAD-NR) | 
-| 2023 | **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/abs/2306.00006) |  [link](https://github.com/mala-lab/TAM-master/) |
+| 2023 | **Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806) |  Link | 
+| 2023 | **DECOR: Degree-Corrected Social Graph Refinement for Fake News Detection** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298) |  [Link](https://github.com/jiayingwu19/DECOR) | 
+| 2023 | **Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599524) |  [Link](https://github.com/XiaoxiaoMa-MQ/GmapAD/) | 
+| 2023 | **Towards Reliable Rare Category Analysis on Graphs via Individual Calibration** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599525) |  [Link](https://github.com/wulongfeng/CaliRare) | 
+| 2023 | **Evolve Path Tracer: Early Detection of Malicious Addresses in Cryptocurrency** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599817) |  Link | 
+| 2023 | **Removing Camouflage and Revealing Collusion: Leveraging Gang-crime Pattern in Fraudster Detection** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599895) |  [Link](https://github.com/lwwang1995/ACD) | 
+| 2023 | **Group-based Fraud Detection Network on e-Commerce Platforms** | KDD 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599836) |  [Link](https://github.com/yujianke100/GFDN) | 
+| 2023 | **MIDLG: Mutual Information based Dual Level GNN for Transaction Fraud Complaint Verification** | KDD 2023 | [Link](https://arxiv.org/pdf/2308.02793.pdf) |  Link | 
+| 2023 | **Dynamic graph neural network-based fraud detectors against collaborative fraudsters** | Knowledge-Based Systems 2023 | [Link](https://www.sciencedirect.com/science/article/pii/S095070512300638X) |  Link | 
+| 2023 | **Crowdsourcing Fraud Detection over Heterogeneous Temporal MMMA Graph** | arXiv 2023 | [Link](https://arxiv.org/pdf/2308.02793.pdf) |  Link | 
+| 2023 | **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach** | arXiv 2023 | [Link](https://arxiv.org/pdf/2308.01063.pdf) |  Link | 
+| 2023 | **Transaction Fraud Detection via Spatial-Temporal-Aware Graph Transformer** | arXiv 2023 | [Link](https://arxiv.org/pdf/2307.05121.pdf) |  Link | 
+| 2023 | **Transaction Fraud Detection via an Adaptive Graph Neural Network** | arXiv 2023 | [Link](https://arxiv.org/pdf/2307.05633.pdf) |  Link | 
+| 2023 | **Heuristic Heterogeneous Graph Reasoning Networks for Fact Verification** | IEEE TNNLS 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10149825) |  Link |
+| 2023 | **Anomaly Detection in Networks via Score-Based Generative Models** | ICML 2023 Workshops | [Link](https://arxiv.org/pdf/2306.15324.pdf) |  [Link](https://github.com/realfolkcode/GraphDiffusionAnomaly) | 
+| 2023 | **GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.12251.pdf) |  [Link](https://github.com/squareRoot3/GADBench) | 
+| 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) | 
+| 2023 | **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/abs/2306.00006) |  [Link](https://github.com/mala-lab/TAM-master/) |
+| 2023 | **Interaction-Focused Anomaly Detection on Bipartite Node-and-Edge-Attributed Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191331) |  [Link](https://github.com/grab/GraphBEAN) |
+| 2023 | **ConsE: Consistency Exploitation for Semi-Supervised Anomaly Detection in Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191356) |  Link | 
+| 2023 | **Anti-Money Laundering in Cryptocurrency via Multi-Relational Graph Neural Network** | PAKDD 2023 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_10) | Link |
+| 2023 | **GraphFC: Customs Fraud Detection with Label Scarcity** | arXiv 2023 | [Link](https://arxiv.org/pdf/2305.11377.pdf) | [Link](https://github.com/k-s-b/gnn_wco) |
+| 2023 | **MetaGAD: Learning to Meta Transfer for Few-shot Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/pdf/2305.10668.pdf) | Link |
+| 2023 | **Graph Contrastive Learning With Feature Augmentation for Rumor Detection** | IEEE TCSS 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10115277) |  Link | 
+| 2023 | **Fraud detection on multi-relation graphs via imbalanced and interactive learning** | Information Sciences | [Link](https://www.sciencedirect.com/science/article/pii/S0020025523007387) | Link |
 | 2023 | **Anti-Money Laundering by Group-Aware Deep Graph Learning** | IEEE TKDE | [Link](https://doi.org/10.1109/TKDE.2023.3272396) | Link |
 | 2023 | **Semi-Supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation** | AAAI 2023 | [Link](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf) | [link](https://github.com/finint/antifraud) |
+| 2023 | **TUAF: Triple-Unit-Based Graph-Level Anomaly Detection with Adaptive Fusion Readout**  | DASFAA 2023 |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_31) | [Link](https://github.com/scu-kdde/OAM-TUAF-2023) |
+| 2023 | **DualFraud: Dual-Target Fraud Detection and Explanation in Supply Chain Finance Across Heterogeneous Graphs**  | DASFAA 2023 |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_28) | [Link](https://github.com/anonymousDualFraud/DualFraud) |
+| 2023 | **GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2303.17334.pdf) | [Link](https://github.com/xxhu94/GAT-COBO) |
+| 2023 | **Cost Sensitive GNN-based Imbalanced Learning for Mobile Social Network Fraud Detection**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2303.17486.pdf) | [Link](https://github.com/xxhu94/CSGNN) |
 | 2023 | **DEDGAT: Dual Embedding of Directed Graph Attention Networks for Detecting Financial Risk**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2303.03933.pdf) | Link |
 | 2023 | **Towards Improved Illicit Node Detection with Positive-Unlabelled Learning**  | IEEE ICBC 2023 |  [Link](https://arxiv.org/pdf/2303.02462.pdf) | Link |
 | 2023 | **Counterfactual Graph Learning for Anomaly Detection on Attributed Networks**  | IEEE TKDE |  [Link](https://ieeexplore.ieee.org/abstract/document/10056298) | Link |
@@ -31,20 +57,23 @@
 | 2023 | **Label Information Enhanced Fraud Detection against Low Homophily in Graphs**  | TheWebConf 2023 |  [Link](https://arxiv.org/pdf/2302.10407.pdf) | [Link](https://github.com/Orion-wyc/GAGA) |
 | 2023 | **Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum**  | TheWebConf 2023 |  [Link](https://blacksingular.github.io/papers/www23-GHRN.pdf) | [Link](https://github.com/blacksingular/GHRN) |
 | 2023 | **LGM-GNN: A Local and Global Aware Memory-Based Graph Neural Network for Fraud Detection**  | IEEE TBD |  [Link](https://ieeexplore.ieee.org/abstract/document/10008063) | Link |
-| 2023 | **Temporal Motifs for Financial Networks: AStudy on Mercari, JPMC, and Venmo Platforms**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2301.07791.pdf) | Link |
+| 2023 | **Multi-view co-attention network for fake news detection by modeling topic-specific user and news source credibility**  | Information Processing & Management |  [Link](https://www.sciencedirect.com/science/article/pii/S0306457322002473) | Link |
+| 2023 | **Temporal Motifs for Financial Networks: A Study on Mercari, JPMC, and Venmo Platforms**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2301.07791.pdf) | Link |
 | 2023 | **Evolve Path Tracer: Early Detection of Malicious Addresses in Cryptocurrency**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2301.05412.pdf) | Link |
 | 2023 | **RiskProp: Account Risk Rating on Ethereum via De-anonymous Score and Network Propagation**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2301.00354.pdf) | Link |
 ### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 | **Mining User-aware Multi-relations for Fake News Detection in Large Scale Online Social Networks**  | WSDM 2023 |  [Link](https://arxiv.org/pdf/2212.10778.pdf) | [Link](https://github.com/xingsumq/Us-DeFake) |
 | 2022 | **Alleviating Structural Distribution Shift in Graph Anomaly Detection**  | WSDM 2023 |  [Link](https://blacksingular.github.io/papers/wsdm23-GDN.pdf) | [Link](https://github.com/blacksingular/wsdm_GDN) |
 | 2022 | **Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment**  | AAAI 2023 |  [Link](https://arxiv.org/pdf/2212.01096.pdf) | [Link](https://github.com/QZ-WANG/ACT) |
 | 2022 | **Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network**  | AAAI 2023 |  [Link](http://yangy.org/works/gnn/AAAI23_Laundering.pdf) | Link |
+| 2022 | **Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks**  | IEEE BigData 2022|  [Link](https://ieeexplore.ieee.org/abstract/document/10020234) | [Link](https://github.com/ujeong1/IEEEBigdata22_HGFND) |
 | 2022 | **Demystifying Bitcoin Address Behavior via Graph Neural Networks**  | ICDE 2023 |  [Link](https://arxiv.org/pdf/2211.14582.pdf) | Link |
 | 2022 | **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**  | NeurIPS 2022 Workshops |  [Link](https://arxiv.org/pdf/2211.08378.pdf) | Link |
 | 2022 | **EvAnGCN: Evolving Graph Deep Neural Network Based Anomaly Detection in Blockchain**  | ADMA 2022 |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-22064-7_32) | Link |
 | 2022 | **Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection**  | NeurIPS 2022 |  [Link](https://openreview.net/pdf?id=d6mf9AFoR-O) | [Link](https://github.com/graph-level-anomalies/iGAD) |
-| 2022 | **Are we really making much progress in unsupervised graph outlier detection? Revisiting the problem with new insight and superior method**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2210.12941.pdf) | Link |
+| 2022 | **Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method**  | ICDE 2023 |  [Link](https://arxiv.org/pdf/2210.12941.pdf) | [Link](https://github.com/goldenNormal/vgod-github) |
 | 2022 | **SybilFlyover: Heterogeneous graph-based fake account detection model on social networks**  | Knowledge-Based Systems |  [Link](https://doi.org/10.1016/j.knosys.2022.110038) | Link |
 | 2022 | **Guided Self-Training based Semi-Supervised Learning for Fraud Detection**  | ACM ICAIF 2022 |  [Link](https://dl.acm.org/doi/abs/10.1145/3533271.3561783) | Link |
 | 2022 | **The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection**  | ICDM 2022 |  [Link](https://arxiv.org/pdf/2210.12384.pdf) | Link |
@@ -72,7 +101,7 @@
 | 2022 | **ALLIE: Active Learning on Large-scale Imbalanced Graphs**  | WWW 2022 |  [Link](https://assets.amazon.science/b0/3c/5d25ba6a44a9aeef450083b41e88/allie-active-learning-on-large-scale-imbalanced-graphs.pdf) | Link |
 | 2022 | **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections**  | WWW 2022 |  [Link](https://dl.acm.org/doi/pdf/10.1145/3485447.3512195) | Link |
 | 2022 | **Prohibited Item Detection via Risk Graph Structure Learning**  | WWW 2022 |  [Link](http://shichuan.org/doc/130.pdf) | Link |
-| 2022 | **TTAGN:Temporal Transaction Aggregation Graph Network For Ethereum Phishing Scams Detection**  | WWW 2022 |  [Link](https://arxiv.org/pdf/2204.13442.pdf) | Link |
+| 2022 | **TTAGN: Temporal Transaction Aggregation Graph Network For Ethereum Phishing Scams Detection**  | WWW 2022 |  [Link](https://arxiv.org/pdf/2204.13442.pdf) | Link |
 | 2022 | **AUC-oriented Graph Neural Network for Fraud Detection**  | WWW 2022 |  [Link](https://ponderly.github.io/pub/AOGNN_WWW2022.pdf) | Link |
 | 2022 | **Bi-Level Selection via Meta Gradient for Graph-based Fraud Detection**  | DASFAA 2022 |  [Link](https://ponderly.github.io/pub/BLS_DASFAA2022.pdf) | Link |
 | 2022 | **Nowhere to Hide: Online Rumor Detection Based on Retweeting Graph Neural Networks**  | IEEE TNNLS 2022 |  [Link](https://ieeexplore.ieee.org/abstract/document/9750388) | Link |
@@ -168,7 +197,8 @@
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | SIGIR 2020   |  [Link](https://arxiv.org/pdf/2005.10150.pdf)   |  [Link](https://github.com/zsjdddhr/GraphRfi) |
 | 2020 | **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks**  | WWW 2020 Workshop   |  [Link](https://dl.acm.org/doi/10.1145/3366424.3391266)   |  Link |
 | 2020 | **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection**  | AAAI 2020   |  [Link](http://staff.ustc.edu.cn/~liandefu/paper/aaai2020_spammer.pdf)   |  Link |
-| 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/abs/2001.06362)   |  [Link](https://github.com/TianBian95/BiGCN) |
+| 2020 | **Interpretable Rumor Detection in Microblogs by Attending to User Interactions**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/2001.10667.pdf)   |  Link |
+| 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/2001.06362.pdf)   |  [Link](https://github.com/TianBian95/BiGCN) |
 
 ### Before 2020 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
@@ -189,6 +219,10 @@
 ## Non-GNN Papers since 2014 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2023 | **Preemptive Detection of Fake Accounts on Social Networks via Multi-Class Preferential Attachment Classifiers**  | KDD 2023 |  [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599471) | Link|
+| 2023 | **Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics**  | KDD 2023 |  [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599803) | [Link](https://github.com/git-disl/EllipticPlusPlus) |
+| 2023 | **Sketch-Based Anomaly Detection in Streaming Graphs**  | KDD 2023 |  [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599504) | [Link](https://github.com/Stream-AD/AnoGraph) |
+| 2023 | **Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement**  | ECML-PKDD 2023 |  [Link](https://arxiv.org/pdf/2306.10857.pdf) | [Link](https://github.com/CompNet/Pang) |
 | 2022 | **Spade: A Real-Time Fraud Detection Framework on Evolving Graphs**  | VLDB 2023 |  [Link](https://arxiv.org/pdf/2211.06977.pdf) | Link |
 | 2022 | **Temporal burstiness and collaborative camouflage aware fraud detection**  | IPM 2023 |  [Link](https://doi.org/10.1016/j.ipm.2022.103170) | Link |
 | 2022 | **AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks**  | KDD 2022 |  [Link](https://arxiv.org/pdf/2205.13426.pdf) | [Link](https://github.com/tsourakakis-lab/antibenford-subgraphs) |
@@ -201,6 +235,7 @@
 | 2022 | **Active Learning for Human-in-the-Loop Customs Inspection**  | IEEE TKDE 2022  | [Link](https://ieeexplore.ieee.org/document/9695316) | [Link](https://github.com/Seondong/Customs-Fraud-Detection) |
 | 2021 | **Analytical Models for Motifs in Temporal Networks: Discovering Trends and Anomalies**  | arXiv 2021 |  [Link](https://arxiv.org/pdf/2112.14871.pdf) | [Link](https://www.dropbox.com/sh/81tkcf1amemmq2i/AAC2k1vdX2DhsbFQz9LCzovEa?dl=0) |
 | 2021 | **Customs Fraud Detection in the Presence of Concept Drift**  | ICDMW 2021 |  [Link](https://arxiv.org/pdf/2109.14155.pdf) | Link |
+| 2021 | **GraphScope: A Unified Engine For Big Graph Processing**  | VLDB 2021  |  [Link](http://vldb.org/pvldb/vol14/p2879-qian.pdf) | [Link](https://github.com/alibaba/GraphScope) |
 | 2021 | **Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection**  | CIKM 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3459637.3482325) | Link |
 | 2021 | **Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach**  | KDD 2021  |  [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467094)  | Link |
 | 2021 | **Mining Fraudsters and Fraudulent Strategies in Large-Scale Mobile Social Networks**  |IEEE TKDE 2021 |  [Link](http://yangy.org/works/telecom_fraud/TKDE_Fraud_Yang.pdf)  | Link |
@@ -268,6 +303,7 @@
 
 [Realtime Fraud Detection with GNN on DGL](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl)
 
+[GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba](https://github.com/alibaba/GraphScope)
 
 ## Dataset [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 
@@ -276,6 +312,10 @@
 [Twitter Fake News Propagation Graph Dataset](https://github.com/safe-graph/GNN-FakeNews)
 
 [Yelp & Amazon Fraud Graph Dataset](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
+
+[Elliptic++ Dataset: A Graph Network of Bitcoin Blockchain Transactions and Wallet Addresses](https://github.com/git-disl/EllipticPlusPlus)
+
+[GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection](https://github.com/squareRoot3/GADBench)
 
 [Risk Commodities Detection on Large-Scale E-commerce Graphs](https://tianchi.aliyun.com/competition/entrance/531976/introduction?lang=en-us)
 
@@ -319,6 +359,8 @@
 [\[Tutorial\] Graph-Based User Behavior Modeling: From Prediction to Fraud Detection](https://www.cs.cmu.edu/~abeutel/kdd2015_tutorial/tutorial.pdf)
 
 ## Survey Paper [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+
+[Fake News Detection Through Graph-based Neural Networks: A Survey](https://arxiv.org/pdf/2307.12639.pdf)
 
 [Graph Learning for Anomaly Analytics: Algorithms, Applications, and Challenges](https://dl.acm.org/doi/pdf/10.1145/3570906)
 
