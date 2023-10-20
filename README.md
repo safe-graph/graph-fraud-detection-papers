@@ -16,6 +16,7 @@
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | WSDM 2024 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) | 
 | 2023 | **SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs** | IJCAI 2023 | [Link](https://www.ijcai.org/proceedings/2023/0256.pdf) |  [Link](https://github.com/D10Andy/SAD) | 
 | 2023 | **Robust Graph Anomaly Detection via Neural Sparsification** | IJCAI 2023 | [Link](https://www.ijcai.org/proceedings/2023/0234.pdf) |  [Link](https://github.com/KellyGong/SparseGAD) | 
 | 2023 | **Don’t Ignore Alienation and Marginalization: Correlating Fraud Detection** | IJCAI 2023 | [Link](https://www.ijcai.org/proceedings/2023/0551.pdf) |  Link | 
@@ -37,7 +38,6 @@
 | 2023 | **Heuristic Heterogeneous Graph Reasoning Networks for Fact Verification** | IEEE TNNLS 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10149825) |  Link |
 | 2023 | **Anomaly Detection in Networks via Score-Based Generative Models** | ICML 2023 Workshops | [Link](https://arxiv.org/pdf/2306.15324.pdf) |  [Link](https://github.com/realfolkcode/GraphDiffusionAnomaly) | 
 | 2023 | **GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.12251.pdf) |  [Link](https://github.com/squareRoot3/GADBench) | 
-| 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | arXiv 2023 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) | 
 | 2023 | **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/abs/2306.00006) |  [Link](https://github.com/mala-lab/TAM-master/) |
 | 2023 | **Interaction-Focused Anomaly Detection on Bipartite Node-and-Edge-Attributed Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191331) |  [Link](https://github.com/grab/GraphBEAN) |
 | 2023 | **ConsE: Consistency Exploitation for Semi-Supervised Anomaly Detection in Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191356) |  Link | 
