@@ -16,6 +16,7 @@
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2023 | **GAD-EBM: Graph Anomaly Detection using Energy-Based Models** | NeurIPS Workshop (GLFrontiers) 2023 | [Link](https://drive.google.com/file/d/1s499nrQHO6721mshGnBQgH7xz7VkSjs5/edit) |  [Link](https://github.com/Graph-COM/GAD-EBM) | 
 | 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | WSDM 2024 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) | 
 | 2023 | **SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs** | IJCAI 2023 | [Link](https://www.ijcai.org/proceedings/2023/0256.pdf) |  [Link](https://github.com/D10Andy/SAD) | 
 | 2023 | **Robust Graph Anomaly Detection via Neural Sparsification** | IJCAI 2023 | [Link](https://www.ijcai.org/proceedings/2023/0234.pdf) |  [Link](https://github.com/KellyGong/SparseGAD) | 
