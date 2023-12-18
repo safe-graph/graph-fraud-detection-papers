@@ -4,7 +4,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
 </div>
 
-A curated list of graph-based fraud, anomaly, and outlier detection papers papers & resources
+A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 
 
 **Table of Content**
