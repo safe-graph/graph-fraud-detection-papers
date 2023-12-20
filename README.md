@@ -29,6 +29,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2023 | **GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection** | NeurIPS 2023 | [Link](https://arxiv.org/pdf/2306.12251.pdf) |  [Link](https://github.com/squareRoot3/GADBench) | 
 | 2023 | **GAD-EBM: Graph Anomaly Detection using Energy-Based Models** | NeurIPS 2023   (GLFrontiers Workshop) | [Link](https://drive.google.com/file/d/1s499nrQHO6721mshGnBQgH7xz7VkSjs5/edit) |  [Link](https://github.com/Graph-COM/GAD-EBM) | 
 | 2023 | **Towards Self-Interpretable Graph-Level Anomaly Detection** | NeurIPS 2023 | [Link](https://openreview.net/pdf?id=SAzaC8f3cM) |  [Link](https://github.com/yixinliu233/SIGNET) | 
+| 2023 | **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** | NeurIPS 2023 | [Link](https://arxiv.org/abs/2306.00006) |  [Link](https://github.com/mala-lab/TAM-master/) |
 | 2023 | **Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection** | ICDM 2023 Workshops | [Link](https://arxiv.org/pdf/2310.04171.pdf) |  Link | 
 | 2023 | **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection** | ICDM 2023 | [Link](https://arxiv.org/pdf/2312.05526.pdf) |  Link |  
 | 2023 | **RHGNN: Fake reviewer detection based on reinforced heterogeneous graph neural networks** | Knowledge-Based Systems 2023 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007797) |  Link | 
@@ -73,7 +74,6 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2023 | **Transaction Fraud Detection via an Adaptive Graph Neural Network** | arXiv 2023 | [Link](https://arxiv.org/pdf/2307.05633.pdf) |  Link | 
 | 2023 | **Heuristic Heterogeneous Graph Reasoning Networks for Fact Verification** | IEEE TNNLS 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10149825) |  Link |
 | 2023 | **Anomaly Detection in Networks via Score-Based Generative Models** | ICML 2023 Workshops | [Link](https://arxiv.org/pdf/2306.15324.pdf) |  [Link](https://github.com/realfolkcode/GraphDiffusionAnomaly) | 
-| 2023 | **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/abs/2306.00006) |  [Link](https://github.com/mala-lab/TAM-master/) |
 | 2023 | **Interaction-Focused Anomaly Detection on Bipartite Node-and-Edge-Attributed Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191331) |  [Link](https://github.com/grab/GraphBEAN) |
 | 2023 | **ConsE: Consistency Exploitation for Semi-Supervised Anomaly Detection in Graphs** | IJCNN 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10191356) |  Link | 
 | 2023 | **Anti-Money Laundering in Cryptocurrency via Multi-Relational Graph Neural Network** | PAKDD 2023 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_10) | Link |
