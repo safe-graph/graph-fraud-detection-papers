@@ -19,6 +19,8 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 
 ## GNN Papers
 ### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
 | 2024 | **Partitioning Message Passing for Graph Fraud Detection** | ICLR 2024 | [Link](https://openreview.net/pdf?id=tEgrUrUuwA) |  Link |
 | 2024 | **Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision** | ICLR 2024 | [Link](https://openreview.net/pdf?id=elMKXvhhQ9) |  Link |
 | 2024 | **Boosting Graph Anomaly Detection with Adaptive Message Passing** | ICLR 2024 | [Link](https://openreview.net/pdf?id=CanomFZssu) |  Link |
