@@ -8,7 +8,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 
 
 **Table of Content**
-- GNN Papers: [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
+- GNN Papers: [2024](#2024-back-to-top) | [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
 - [Non-GNN Papers since 2014](#non-gnn-papers-since-2014-back-to-top)
 - [Toolbox](#toolbox-back-to-top)
 - [Dataset](#dataset-back-to-top)
@@ -18,6 +18,11 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 
 
 ## GNN Papers
+### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+| 2024 | **Partitioning Message Passing for Graph Fraud Detection** | ICLR 2024 | [Link](https://openreview.net/pdf?id=tEgrUrUuwA) |  Link |
+| 2024 | **Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision** | ICLR 2024 | [Link](https://openreview.net/pdf?id=elMKXvhhQ9) |  Link |
+| 2024 | **Boosting Graph Anomaly Detection with Adaptive Message Passing** | ICLR 2024 | [Link](https://openreview.net/pdf?id=CanomFZssu) |  Link |
+| 2024 | **Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection** | ICLR 2024 | [Link](https://arxiv.org/pdf/2310.02861.pdf) |  Link |
 
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
@@ -34,7 +39,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2023 | **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection** | ICDM 2023 | [Link](https://arxiv.org/pdf/2312.05526.pdf) |  Link |  
 | 2023 | **RHGNN: Fake reviewer detection based on reinforced heterogeneous graph neural networks** | Knowledge-Based Systems 2023 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007797) |  Link | 
 | 2023 | **Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection** | arXiv 2023 | [Link](https://arxiv.org/pdf/2311.10370.pdf) |  Link | 
-| 2023 | **GoSage:Heterogeneous Graph Neural Network Using Hierarchical Attention for Collusion Fraud Detection** | ACM ICAIF 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3604237.3626856) |  Link | 
+| 2023 | **GoSage: Heterogeneous Graph Neural Network Using Hierarchical Attention for Collusion Fraud Detection** | ACM ICAIF 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3604237.3626856) |  Link | 
 | 2023 | **ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach** | IEEE Bigdata 2023 | [Link](https://arxiv.org/pdf/2311.07355.pdf) |  Link | 
 | 2023 | **SplitGNN: Spectral Graph Neural Network for Fraud Detection against Heterophily** | CIKM 2023 | [Link](https://dl.acm.org/doi/10.1145/3583780.3615067) |  [Link](https://github.com/split-gnn/splitgnn) | 
 | 2023 | **THGNN: An Embedding-based Model for Anomaly Detection in Dynamic Heterogeneous Social Networks** | CIKM 2023 | [Link](https://dl.acm.org/doi/pdf/10.1145/3583780.3615079) |  [Link](https://github.com/THGNN/THGNN) | 
