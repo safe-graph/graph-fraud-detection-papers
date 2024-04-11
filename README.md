@@ -29,7 +29,8 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | WSDM 2024 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) | 
+| 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | WSDM 2024 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) |
+| 2023 | **DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28785) |  [Link](https://github.com/GraphBerry/DiG-In-GNN) |
 | 2023 | **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** | AAAI 2024 | [Link](https://arxiv.org/pdf/2312.05739.pdf) |  Link |
 | 2023 | **Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum** | AAAI 2024 | [Link](https://arxiv.org/pdf/2312.06441.pdf) |  Link |
 | 2023 | **GADY: Unsupervised Anomaly Detection on Dynamic Graphs** | AAAI 2024 | [Link](https://arxiv.org/pdf/2310.16376.pdf) |  Link |
