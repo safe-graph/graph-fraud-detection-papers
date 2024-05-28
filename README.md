@@ -39,21 +39,20 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2024 | **Provably Powerful Graph Neural Networks for Directed Multigraphs** | AAAI 2024 | [Link](https://arxiv.org/pdf/2306.11586) |  [Link](https://github.com/IBM/Multi-GNN) |
 | 2024 | **Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27757) |  [Link](https://github.com/CcQunResearch/RAGCL) |
 | 2024 | **Barely Supervised Learning for Graph-Based Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29593) |  Link |
-| 2024 | **Barely Supervised Learning for Graph-Based Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29593) |  Link |
 | 2024 | **ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28691) |  Link |
 | 2024 | **Pre-trained Online Contrastive Learning for Insurance Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30259) |  Link |
 | 2024 | **Towards Robust Rumor Detection with Graph Contrastive and Curriculum Learning** | ACM TKDD 2024 | [Link](https://dl.acm.org/doi/pdf/10.1145/3653023) |  Link |
-| 2024 | **Partitioning Message Passing for Graph Fraud Detection** | ICLR 2024 | [Link](https://openreview.net/pdf?id=tEgrUrUuwA) |  Link |
-| 2024 | **Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision** | ICLR 2024 | [Link](https://openreview.net/pdf?id=elMKXvhhQ9) |  Link |
+| 2024 | **Partitioning Message Passing for Graph Fraud Detection** | ICLR 2024 | [Link](https://openreview.net/pdf?id=tEgrUrUuwA) |  [Link](https://github.com/Xtra-Computing/PMP) |
+| 2024 | **Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision** | ICLR 2024 | [Link](https://openreview.net/pdf?id=elMKXvhhQ9) |  [Link](https://github.com/Xtra-Computing/ConsisGAD) |
 | 2024 | **Boosting Graph Anomaly Detection with Adaptive Message Passing** | ICLR 2024 | [Link](https://openreview.net/pdf?id=CanomFZssu) |  Link |
-| 2024 | **Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection** | ICLR 2024 | [Link](https://arxiv.org/pdf/2310.02861.pdf) |  Link |
+| 2024 | **Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection** | ICLR 2024 | [Link](https://arxiv.org/pdf/2310.02861.pdf) |  [Link](https://github.com/xydong127/RQGNN) |
 | 2024 | **PhoGAD: Graph-based Anomaly Behavior Detection with Persistent Homology Optimization** | WSDM 2024 | [Link](https://arxiv.org/pdf/2401.10547) |  Link |
 | 2024 | **SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks** | arXiv 2024 | [Link](https://arxiv.org/pdf/2401.01625) |  Link |
 ### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2023 | **Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks** | LoG 2023 | [Link](https://proceedings.mlr.press/v231/gu24a/gu24a.pdf) |  [Link](https://github.com/Jing-DS/HNN_GAD) |
-| 2023 | **Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models** | arXiv 2024 | [Link](https://arxiv.org/pdf/2312.17679) |  [Link](https://pypi.org/project/godm/) |
+| 2023 | **Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models** | arXiv 2023 | [Link](https://arxiv.org/pdf/2312.17679) |  [Link](https://pypi.org/project/godm/) |
 | 2023 | **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction** | WSDM 2024 | [Link](https://arxiv.org/pdf/2306.01951.pdf) |  [Link](https://github.com/Graph-COM/GAD-NR) |
 | 2023 | **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29067) |  [Link](https://github.com/AtwoodDuan/DGA-GNN) |
 | 2023 | **DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28785) |  [Link](https://github.com/GraphBerry/DiG-In-GNN) |
