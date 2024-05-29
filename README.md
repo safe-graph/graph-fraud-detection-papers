@@ -297,6 +297,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2024 | **Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs** |  IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10510636) |Link | 
+| 2024 | **MAD: Multi-Scale Anomaly Detection in Link Streams** |  WSDM 2024 | [Link](https://hal.science/hal-04361052/document) |Link |
 | 2023 | **Online Corrupted User Detection and Regret Minimization** |  NeurIPS 2023 | [Link](https://arxiv.org/pdf/2310.04768.pdf) |Link | 
 | 2023 | **CallMine: Fraud Detection and Visualization of Million-Scale Call Graphs** |   CIKM 2023 | [Link](https://dl.acm.org/doi/10.1145/3583780.3614662) |  [Link](https://github.com/mtcazzolato/callmine) | 
 | 2023 | **Preemptive Detection of Fake Accounts on Social Networks via Multi-Class Preferential Attachment Classifiers**  | KDD 2023 |  [Link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599471) | Link|
