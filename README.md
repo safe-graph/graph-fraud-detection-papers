@@ -21,6 +21,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 ### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2024 | **Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries** | SSRN 2024 | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847792) |  Link |
 | 2024 | **Dispelling the Fake: Social Bot Detection Based on Edge Confidence Evaluation** | IEEE TNNLS 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10530431) |  Link |
 | 2024 | **Friend or Foe? Mining Suspicious Behavior via Graph Capsule Infomax Detector against Fraudsters** | TheWebConf 2024 | [Link](https://dl.acm.org/doi/pdf/10.1145/3589334.3645706) |  [Link](https://github.com/blacksingular/Bio-GNN) |
 | 2024 | **Graph Anomaly Detection with Bi-level Optimization** | TheWebConf 2024 | [Link](https://dl.acm.org/doi/pdf/10.1145/3589334.3645673) |  [Link](https://github.com/blacksingular/Bio-GNN) |
