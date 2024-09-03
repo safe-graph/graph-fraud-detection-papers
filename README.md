@@ -41,7 +41,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2024 | **Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27757) |  [Link](https://github.com/CcQunResearch/RAGCL) |
 | 2024 | **Barely Supervised Learning for Graph-Based Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29593) |  Link |
 | 2024 | **ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28691) |  Link |
-| 2024 | **Pre-trained Online Contrastive Learning for Insurance Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30259) |  Link |
+| 2024 | **Pre-trained Online Contrastive Learning for Insurance Fraud Detection** | AAAI 2024 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30259) |  [Link](https://github.com/finint/POCL) |
 | 2024 | **Towards Robust Rumor Detection with Graph Contrastive and Curriculum Learning** | ACM TKDD 2024 | [Link](https://dl.acm.org/doi/pdf/10.1145/3653023) |  Link |
 | 2024 | **Partitioning Message Passing for Graph Fraud Detection** | ICLR 2024 | [Link](https://openreview.net/pdf?id=tEgrUrUuwA) |  [Link](https://github.com/Xtra-Computing/PMP) |
 | 2024 | **Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision** | ICLR 2024 | [Link](https://openreview.net/pdf?id=elMKXvhhQ9) |  [Link](https://github.com/Xtra-Computing/ConsisGAD) |
