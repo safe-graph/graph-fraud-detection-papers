@@ -31,7 +31,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2024 | **Multi-task Contrastive Learning for Anomaly Detection on Attributed Networks** | PAKDD 2024 | [Link](https://link.springer.com/chapter/10.1007/978-981-97-2242-6_2) |  Link |
 | 2024 | **TCGNN: Text-Clustering Graph Neural Networks for Fake News Detection on Social Media** | PAKDD 2024 | [Link](https://link.springer.com/chapter/10.1007/978-981-97-2266-2_11) |  Link |
 | 2024 | **Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection** | arXiv 2024 | [Link](https://arxiv.org/pdf/2403.10339) |  Link |
-| 2024 | **Revisiting Attack-caused Structural Distribution Shift in Graph Anomaly Detection** | IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10478154) |  Link |
+| 2024 | **Revisiting Attack-caused Structural Distribution Shift in Graph Anomaly Detection** | IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10478154) | [Link](https://github.com/fortunato-all/skl-GDN) |
 | 2024 | **F2GNN: An Adaptive Filter with Feature Segmentation for Graph-Based Fraud Detection** | ICASSP 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10446523) |  Link |
 | 2024 | **RAGFormer: Learning Semantic Attributes and Topological Structure for Fraud Detection** | arXiv 2024 | [Link](https://arxiv.org/pdf/2402.17472) |  [Link](https://anonymous.4open.science/r/RAGFormer-4675) |
 | 2024 | **CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks** | arXiv 2024 | [Link](https://arxiv.org/pdf/2402.14708) |  Link |
