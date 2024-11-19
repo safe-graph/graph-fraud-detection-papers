@@ -9,7 +9,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 
 **Table of Content**
 - Deep Learning Papers: [2024](#2024-back-to-top) | [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
-- [Non-Deep-Learning Papers since 2014](#non-gnn-papers-since-2014-back-to-top)
+- [Non-Deep-Learning Papers since 2014](#non-deep-learning-papers-since-2014-back-to-top)
 - [Toolbox](#toolbox-back-to-top)
 - [Dataset](#dataset-back-to-top)
 - [Survey Paper](#survey-paper-back-to-top)
