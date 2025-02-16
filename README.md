@@ -341,6 +341,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 ## Non-Deep-Learning Papers since 2014 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2025 | **Bursting Flow Query on Large Temporal Flow Networks** | SIGMOD 2025 | [Link](https://dl.acm.org/doi/10.1145/3709737) | Link | 
 | 2024 | **Benchmarking Fraud Detectors on Private Graph Data** | KDD 2025 | [Link](https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf) |  Link |
 | 2024 | **RUSH: Real-Time Burst Subgraph Detection in Dynamic Graphs** |  VLDB 2024 | [Link](https://dl.acm.org/doi/10.14778/3681954.3682028) | [Link](https://github.com/Xtra-Computing/RUSH) | 
 | 2024 | **Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs** |  IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10510636) |Link | 
