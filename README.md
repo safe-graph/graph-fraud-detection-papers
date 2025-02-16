@@ -21,6 +21,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 ### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2024 | **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** | Arxiv 2025 | [Link](https://arxiv.org/abs/2502.09254) | [Link](https://github.com/mala-lab/AnomalyGFM)  |
 | 2024 | **Fund transfer fraud detection: Analyzing irregular transactions and customer relationships with self-attention and graph neural networks** | Expert Systems with Applications 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417424020785) |  Link |
 | 2024 | **UniGAD: Unifying Multi-level Graph Anomaly Detection** | NeurIPS 2024 | [Link](https://arxiv.org/pdf/2411.06427) |  [Link](https://github.com/lllyyq1121/UniGAD) |
 | 2024 | **Context Correlation Discrepancy Analysis for Graph Anomaly Detection** | IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10746358) |  Link |
