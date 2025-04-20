@@ -21,7 +21,19 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 ### 2025 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2025 | **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/abs/2502.09254) | [Link](https://github.com/mala-lab/AnomalyGFM)  |
+| 2025 | **Federated Graph Anomaly Detection via Disentangled Representation Learning** | TheWebConf 2025 | [Link](https://openreview.net/pdf?id=xqjnhRqdK9) |  Link |
+| 2025 | **Cluster Aware Graph Anomaly Detection** | TheWebConf 2025 | [Link](https://arxiv.org/pdf/2409.09770) |  [Link](https://github.com/zhenglecheng/CARE-demo) |
+| 2025 | **SmoothGNN: Smoothing-aware GNN for Unsupervised Node Anomaly Detection** | TheWebConf 2025 | [Link](https://arxiv.org/pdf/2405.17525) |  Link |
+| 2025 | **Enhancing Attribute-Driven Fraud Detection With Risk-Aware Graph Representation** | TKDE 2025 | [Link](https://arxiv.org/pdf/2502.08605) | [Link](https://github.com/AI4Risk/antifraud)  |
+| 2025 | **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.08605) | Link  |
+| 2025 | **Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10843290) | Link |
+| 2025 | **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.09254) | [Link](https://github.com/mala-lab/AnomalyGFM)  |
+| 2025 | **Nowhere to H2IDE: Fraud Detection From Multi-Relation Graphs via Disentangled Homophily and Heterophily Identification** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10816539) | Link |
+| 2025 | **Towards Fraud Detection Via Fine-Grained Classification of User Behavior** | TBD 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10798511) | Link  |
+| 2025 | **Rethinking Unsupervised Graph Anomaly Detection With Deep Learning: Residuals and Objectives** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10756792) | Link |
+| 2025 | **A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection** | AAAI 2025 | [Link](https://arxiv.org/pdf/2502.13308) | [Link](https://github.com/CampanulaBells/HUGE-GAD)  |
+| 2025 | **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.18370) | [Link](https://github.com/bdi-lab/MonTi)  |
+| 2025 | **A Generalizable Anomaly Detection Method in Dynamic Graphs** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.16447) | [Link](https://github.com/YXNTU/GeneralDyG)  |
 ### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
@@ -68,7 +80,6 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2024 | **Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement** | arXiv 2024 | [Link](https://arxiv.org/pdf/2406.00987) |  [Link](https://github.com/AhaChang/DEFEND) |
 | 2024 | **Learning-Based Link Anomaly Detection in Continuous-Time Dynamic Graphs** | TMLR 2024 | [Link](https://arxiv.org/pdf/2405.18050) |  [Link](https://github.com/timpostuvan/CTDG-link-anomaly-detection) |
 | 2024 | **ARC: A Generalist Graph Anomaly Detector with In-Context Learning** | NeurIPS 2024 | [Link](https://arxiv.org/pdf/2405.16771) |  [Link](https://github.com/yixinliu233/ARC) |
-| 2024 | **SmoothGNN: Smoothing-aware GNN for Unsupervised Node Anomaly Detection** | arXiv 2024 | [Link](https://arxiv.org/pdf/2405.17525) |  Link |
 | 2024 | **Graph Anomaly Detection with Domain-Agnostic Pre-Training and Few-Shot Adaptation** | IEEE ICDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10597726) |  Link |
 | 2024 | **Parallel Graph Learning with Temporal Stamp Encoding for Fraudulent Transactions Detections** | IEEE TBD 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10753618) |  Link |
 | 2024 | **Dispelling the Fake: Social Bot Detection Based on Edge Confidence Evaluation** | IEEE TNNLS 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10530431) |  Link |
