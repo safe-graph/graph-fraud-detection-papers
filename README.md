@@ -24,6 +24,10 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2025 | **Federated Graph Anomaly Detection via Disentangled Representation Learning** | TheWebConf 2025 | [Link](https://openreview.net/pdf?id=xqjnhRqdK9) |  Link |
 | 2025 | **Cluster Aware Graph Anomaly Detection** | TheWebConf 2025 | [Link](https://arxiv.org/pdf/2409.09770) |  [Link](https://github.com/zhenglecheng/CARE-demo) |
 | 2025 | **SmoothGNN: Smoothing-aware GNN for Unsupervised Node Anomaly Detection** | TheWebConf 2025 | [Link](https://arxiv.org/pdf/2405.17525) |  Link |
+| 2025 | **Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark** | ICLR 2025 | [Link](https://arxiv.org/pdf/2406.15523) |  [Link](https://github.com/UB-GOLD/UB-GOLD) |
+| 2025 | **SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels** | ICLR 2025 | [Link](https://arxiv.org/pdf/2502.03201) |  [Link](https://github.com/xydong127/SpaceGNN) |
+| 2025 | **Open-Set Graph Anomaly Detection via Normal Structure Regularisation** | ICLR 2025 | [Link](https://arxiv.org/pdf/2311.06835.pdf) |  [Link](https://github.com/mala-lab/NSReg) |
+| 2025 | **DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector** | ICLR 2025 | [Link](https://arxiv.org/pdf/2410.06549) |  [Link](https://github.com/fortunato-all/DiffGAD) |
 | 2025 | **Enhancing Attribute-Driven Fraud Detection With Risk-Aware Graph Representation** | TKDE 2025 | [Link](https://arxiv.org/pdf/2502.08605) | [Link](https://github.com/AI4Risk/antifraud)  |
 | 2025 | **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.08605) | Link  |
 | 2025 | **Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10843290) | Link |
@@ -50,7 +54,6 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2024 | **LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection** | CIKM 2024 | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679956) |  [Link](https://github.com/wdhyun/LEX-GNN) |
 | 2024 | **Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation** | CIKM 2024 | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679863) |  Link |
 | 2024 | **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** | arXiv 2024 | [Link](https://arxiv.org/pdf/2410.14886) |  [Link](https://github.com/mala-lab/UNPrompt) |
-| 2024 | **DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector** | arXiv 2024 | [Link](https://arxiv.org/pdf/2410.06549) |  Link |
 | 2024 | **A Universal Adaptive Algorithm for Graph Anomaly Detection** | Elsevier IPM 2024 | [Link](https://www.sciencedirect.com/science/article/pii/S0306457324002644) |  [Link](https://github.com/LIyvqi/U-A2GAD) |
 | 2024 | **Cross-Regional Fraud Detection via Continual Learning With Knowledge Transfer** | TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10654781) |  Link |
 | 2024 | **Do not ignore heterogeneity and heterophily: Multi-network collaborative telecom fraud detection** | Expert Systems with Applications 2024 | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424018414) |  Link |
@@ -140,7 +143,6 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2023 | **Learning Node Abnormality with Weak Supervision** |  CIKM 2023 | [Link](https://dl.acm.org/doi/abs/10.1145/3583780.3614950) |  Link | 
 | 2023 | **Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection** |  ACM MM 2023 | [Link](https://dl.acm.org/doi/10.1145/3581783.3613780) |  [Link](https://github.com/CatScarf/COFD-MM) | 
 | 2023 | **Multi-modal Social Bot Detection: Learning Homophilic and Heterophilic Connections Adaptively** |  ACM MM 2023 | [Link](https://dl.acm.org/doi/abs/10.1145/3581783.3612569) |  Link | 
-| 2023 | **Open-Set Graph Anomaly Detection via Normal Structure Regularisation** |  arXiv 2023 | [Link](https://arxiv.org/pdf/2311.06835.pdf) |  Link |
 | 2023 | **Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection** |  arXiv 2023 | [Link](https://arxiv.org/pdf/2311.10370.pdf) |  Link | 
 | 2023 | **ASA-GNN: Adaptive Sampling and Aggregation-Based Graph Neural Network for Transaction Fraud Detection** | IEEE TCSS 2023 | [Link](https://ieeexplore.ieee.org/abstract/document/10354439) |  [Link]() | 
 | 2023 | **Joint Credibility Estimation of News, User, and Publisher via Role-relational Graph Convolutional Networks** | ACM TWEB 2023 | [Link](https://dl.acm.org/doi/abs/10.1145/3617418) |  [Link](https://github.com/shresthaanu/RoleRGCN) | 
