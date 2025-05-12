@@ -38,6 +38,7 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2025 | **A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection** | AAAI 2025 | [Link](https://arxiv.org/pdf/2502.13308) | [Link](https://github.com/CampanulaBells/HUGE-GAD)  |
 | 2025 | **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.18370) | [Link](https://github.com/bdi-lab/MonTi)  |
 | 2025 | **A Generalizable Anomaly Detection Method in Dynamic Graphs** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.16447) | [Link](https://github.com/YXNTU/GeneralDyG)  |
+| 2025 | **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection**| AAAI 2025 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33264/35419) | [Link](https://github.com/AtwoodDuan/GAAP)  |
 ### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
