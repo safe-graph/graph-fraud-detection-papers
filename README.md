@@ -28,8 +28,8 @@ A curated list of graph-based fraud, anomaly, and outlier detection papers & res
 | 2025 | **SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels** | ICLR 2025 | [Link](https://arxiv.org/pdf/2502.03201) |  [Link](https://github.com/xydong127/SpaceGNN) |
 | 2025 | **Open-Set Graph Anomaly Detection via Normal Structure Regularisation** | ICLR 2025 | [Link](https://arxiv.org/pdf/2311.06835.pdf) |  [Link](https://github.com/mala-lab/NSReg) |
 | 2025 | **DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector** | ICLR 2025 | [Link](https://arxiv.org/pdf/2410.06549) |  [Link](https://github.com/fortunato-all/DiffGAD) |
-| 2025 | **Enhancing Attribute-Driven Fraud Detection With Risk-Aware Graph Representation** | TKDE 2025 | [Link](https://arxiv.org/pdf/2502.08605) | [Link](https://github.com/AI4Risk/antifraud)  |
-| 2025 | **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.08605) | Link  |
+| 2025 | **Enhancing Attribute-Driven Fraud Detection With Risk-Aware Graph Representation** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/document/10896835) | [Link](https://github.com/AI4Risk/antifraud)  |
+| 2025 | **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.08605) | [Link](https://github.com/karish-grover/curvgad)  |
 | 2025 | **Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10843290) | Link |
 | 2025 | **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.09254) | [Link](https://github.com/mala-lab/AnomalyGFM)  |
 | 2025 | **Nowhere to H2IDE: Fraud Detection From Multi-Relation Graphs via Disentangled Homophily and Heterophily Identification** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10816539) | Link |
