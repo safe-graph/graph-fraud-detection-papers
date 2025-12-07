@@ -16,7 +16,7 @@ A curated list of graph-based and Transformer-based papers and resources for fra
 - [Survey Paper](#survey-paper-back-to-top)
 - [Other Resource](#other-resource-back-to-top)
 
-## ## LLM and Transformer Papers [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## LLM and Transformer Papers [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2026 | **When graph anomaly breaks the coherence: A multi-evidence approach with language models** | Expert Systems with Applications | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425031720) |  Link |
@@ -34,7 +34,7 @@ A curated list of graph-based and Transformer-based papers and resources for fra
 ### 2026 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2026 | **PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks** | IEEE S&P | [Link](https://arxiv.org/pdf/2510.12652) |  [Link](https://github.com/0xllssFF/PromoGuardian) |
+| 2026 | **PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks** | IEEE S&P 2026 | [Link](https://arxiv.org/pdf/2510.12652) |  [Link](https://github.com/0xllssFF/PromoGuardian) |
 | 2026 | **Multi-faceted consistency data augmentation for graph anomaly detection** | Information Processing & Management | [Link](https://www.sciencedirect.com/science/article/pii/S0306457325002791) |  Link |
 | 2026 | **Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time** | AAAI 2026 | [Link](https://arxiv.org/pdf/2511.07023) |  [Link](https://github.com/CampanulaBells/TUNE) |
 
