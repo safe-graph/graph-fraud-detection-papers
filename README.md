@@ -8,7 +8,7 @@ A curated list of graph-based and Transformer-based papers and resources for fra
 
 
 **Table of Content**
-- LLM & Transformer Papers: [2026](#2026-back-to-top) | [2025](#2025-back-to-top) | [2024](#2024-back-to-top) 
+- [LLM and Transformer Papers](#llm-and-transformer-papers-back-to-top)
 - Deep Learning Graph Papers: [2026](#2026-back-to-top) | [2025](#2025-back-to-top) | [2024](#2024-back-to-top) | [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
 - [Non-Deep-Learning Graph Papers since 2014](#non-deep-learning-papers-since-2014-back-to-top)
 - [Toolbox](#toolbox-back-to-top)
@@ -16,17 +16,11 @@ A curated list of graph-based and Transformer-based papers and resources for fra
 - [Survey Paper](#survey-paper-back-to-top)
 - [Other Resource](#other-resource-back-to-top)
 
-## LLM & Transformer Papers
-### 2026 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## ## LLM and Transformer Papers [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2026 | **When graph anomaly breaks the coherence: A multi-evidence approach with language models** | Expert Systems with Applications | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425031720) |  Link |
 | 2026 | **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** | AAAI 2026 | [Link](https://arxiv.org/pdf/2507.21653) |  Link |
-
-
-### 2025 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
-| Year   | Title  | Venue |  Paper | Code  |
-|-------|--------|--------|--------|-----------|
 | 2025 | **OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs** | ACM CCS 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765219) |  [Link](https://github.com/CoDS-GCS/OCR-APT) |
 | 2025 | **LLM-Powered Text-Attributed Graph Anomaly Detection via Retrieval-Augmented Reasoning** | arXiv 2025 | [Link](https://arxiv.org/pdf/2511.17584) |  [Link](https://github.com/Flanders1914/TAG_AD) |
 | 2025 | **Detecting LLM-Generated Spam Reviews by Integrating Language Model Embeddings and Graph Neural Network** | arXiv 2025 | [Link](https://arxiv.org/pdf/2510.01801) |  [Link](https://anonymous.4open.science/r/FraudSquad-5389/) |
@@ -34,8 +28,6 @@ A curated list of graph-based and Transformer-based papers and resources for fra
 | 2025 | **GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model** | KDD 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3711896.3736993) |  [Link](https://github.com/THUDM/WhoIsWho/tree/main/mind) |
 | 2025 | **FLAG: Fraud Detection with LLM-enhanced Graph Neural Network** | KDD 2025 | [Link](http://www.shichuan.org/doc/200.pdf) | Link |
 | 2025 | **Automated graph anomaly detection with large language models** | Knowledge-Based Systems | [Link](https://www.sciencedirect.com/science/article/abs/pii/S095070512500855X) | Link |
-
-
 
 
 ## Deep Learning Graph Papers
@@ -75,7 +67,7 @@ A curated list of graph-based and Transformer-based papers and resources for fra
 | 2025 | **GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection** | IJCAI 2025 | [Link](https://www.ijcai.org/proceedings/2025/0405.pdf) |  Link |
 | 2025 | **MEGAD: a memory-efficient framework for large-scale attributed graph anomaly detection** | IJCAI 2025 | [Link](https://dl.acm.org/doi/abs/10.24963/ijcai.2025/406) |  Link |
 | 2025 | **Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning** | IJCAI 2025 | [Link](https://www.ijcai.org/proceedings/2025/0365.pdf) |  Link |
-| 2025 | **Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning** | ACM TKDD | [Link](https://dl.acm.org/doi/pdf/10.1145/3748727) |  [Link](https://github.com/Thankstaro/GraphPN) |
+| 2025 | **Topology Augmented Multi-Band and Multi-Scale Filtering for Graph Anomaly Detection** | ACM TKDD | [Link](https://dl.acm.org/doi/pdf/10.1145/3748727) |  [Link](https://github.com/Thankstaro/GraphPN) |
 | 2025 | **A Robust Graph Fraud Detection Model Based on Adversarial Reweighting** | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/11081882) |  Link |
 | 2025 | **BotTrans: A Multi-source Graph Domain Adaptation Approach for Social Bot Detection** | ECML PKDD 2025 | [Link](https://link.springer.com/chapter/10.1007/978-3-032-06066-2_14) |  Link |
 | 2025 | **Latent Representation Learning for Attributed Graph Anomaly Detection** | ACM TKDD | [Link](https://dl.acm.org/doi/abs/10.1145/3733604) |  Link |
