@@ -8,7 +8,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 
 
 **Table of Content**
-- [LLM and Transformer Papers](#llm-and-transformer-papers-back-to-top)
+- [LLM and Transformer Papers](#llm-and-transformer-papers)
 - Deep Learning Graph Papers: [2026](#2026-back-to-top) | [2025](#2025-back-to-top) | [2024](#2024-back-to-top) | [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
 - [Non-Deep-Learning Graph Papers since 2014](#non-deep-learning-papers-since-2014-back-to-top)
 - [Toolbox](#toolbox-back-to-top)
@@ -16,7 +16,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 - [Survey Paper](#survey-paper-back-to-top)
 - [Other Resource](#other-resource-back-to-top)
 
-## LLM and Transformer Papers [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## LLM and Transformer Papers
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2026 | **TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding** | KDD 2026 | [Link](https://arxiv.org/pdf/2511.19693) |  Link |
@@ -40,7 +40,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 
 
 ## Deep Learning Graph Papers
-### 2026 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2026 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2026 | **PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks** | IEEE S&P 2026 | [Link](https://arxiv.org/pdf/2510.12652) |  [Link](https://github.com/0xllssFF/PromoGuardian) |
@@ -48,7 +48,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2026 | **Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time** | AAAI 2026 | [Link](https://arxiv.org/pdf/2511.07023) |  [Link](https://github.com/CampanulaBells/TUNE) |
 
 
-### 2025 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2025 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2025 | **Semi-supervised Graph Anomaly Detection via Robust Homophily Learning** | NeurIPS 2025 | [Link](https://arxiv.org/pdf/2506.15448) |  [Link](https://github.com/mala-lab/RHO) |
@@ -112,7 +112,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2025 | **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.18370) | [Link](https://github.com/bdi-lab/MonTi)  |
 | 2025 | **A Generalizable Anomaly Detection Method in Dynamic Graphs** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.16447) | [Link](https://github.com/YXNTU/GeneralDyG)  |
 | 2025 | **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection**| AAAI 2025 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33264/35419) | [Link](https://github.com/AtwoodDuan/GAAP)  |
-### 2024 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2024 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2024 | **Fund transfer fraud detection: Analyzing irregular transactions and customer relationships with self-attention and graph neural networks** | Expert Systems with Applications 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417424020785) |  Link |
@@ -187,7 +187,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2024 | **Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection** | ICLR 2024 | [Link](https://arxiv.org/pdf/2310.02861.pdf) |  [Link](https://github.com/xydong127/RQGNN) |
 | 2024 | **PhoGAD: Graph-based Anomaly Behavior Detection with Persistent Homology Optimization** | WSDM 2024 | [Link](https://arxiv.org/pdf/2401.10547) |  Link |
 | 2024 | **SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks** | arXiv 2024 | [Link](https://arxiv.org/pdf/2401.01625) |  Link |
-### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2023 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2023 | **Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks** | LoG 2023 | [Link](https://proceedings.mlr.press/v231/gu24a/gu24a.pdf) |  [Link](https://github.com/Jing-DS/HNN_GAD) |
@@ -271,7 +271,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2023 | **Multi-view co-attention network for fake news detection by modeling topic-specific user and news source credibility**  | Information Processing & Management |  [Link](https://www.sciencedirect.com/science/article/pii/S0306457322002473) | Link |
 | 2023 | **Temporal Motifs for Financial Networks: A Study on Mercari, JPMC, and Venmo Platforms**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2301.07791.pdf) | Link |
 | 2023 | **RiskProp: Account Risk Rating on Ethereum via De-anonymous Score and Network Propagation**  | arXiv 2023 |  [Link](https://arxiv.org/pdf/2301.00354.pdf) | Link |
-### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2022 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2022 | **Mining User-aware Multi-relations for Fake News Detection in Large Scale Online Social Networks**  | WSDM 2023 |  [Link](https://arxiv.org/pdf/2212.10778.pdf) | [Link](https://github.com/xingsumq/Us-DeFake) |
@@ -325,7 +325,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2022 | **Deep Graph Learning for Anomalous Citation Detection**  | IEEE TNNLS 2022 |  [Link](https://arxiv.org/pdf/2202.11360.pdf) | Link |
 | 2022 | **Towards Fine-Grained Reasoning for Fake News Detection**  | AAAI 2022 |  [Link](https://arxiv.org/pdf/2110.15064.pdf) | [Link](https://github.com/Ahren09/FinerFact) |
 
-### 2021 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2021 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks**  | ACM TOIS 2021 |  [Link](https://www.researchgate.net/publication/353353148_eFraudCom_An_E-commerce_Fraud_Detection_System_via_Competitive_Graph_Neural_Networks) | [Link](https://github.com/GeZhangMQ/eFraudCom) |
@@ -371,7 +371,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2021 | **Few-shot Network Anomaly Detection via Cross-network Meta-learning**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2102.11165v1.pdf)  | [Link](https://github.com/kaize0409/Meta-GDN_AnomalyDetection) |
 | 2021 | **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field**  | AAAI 2021  |  [Link](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)  | Link |
 
-### 2020 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### 2020 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 |2020| **Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning**| IEEE TNNLS 2020 |[link](https://arxiv.org/abs/2103.00113)|[link](https://github.com/GRAND-Lab/CoLA)|
@@ -412,7 +412,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2020 | **Interpretable Rumor Detection in Microblogs by Attending to User Interactions**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/2001.10667.pdf)   |  Link |
 | 2020 | **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks**  | AAAI 2020   |  [Link](https://arxiv.org/pdf/2001.06362.pdf)   |  [Link](https://github.com/TianBian95/BiGCN) |
 
-### Before 2020 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+### Before 2020 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2019 | **Spam Review Detection with Graph Convolutional Networks**  | CIKM 2019  | [Link](https://arxiv.org/pdf/1908.10679.pdf) | [Link](https://github.com/safe-graph/DGFraud-TF2/tree/main/algorithms/GAS) |
@@ -427,7 +427,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2018 | **GraphRAD: A Graph-based Risky Account Detection System**  | KDD 2018 Workshop | [Link](https://www.mlgworkshop.org/2018/papers/MLG2018_paper_12.pdf) | Link |
 | 2018 | **Selective Graph Attention Networks for Account Takeover Detection**  | ICDM 2018 Workshop | [Link](https://ieeexplore.ieee.org/document/8637408) | Link |
 
-## Non-Deep-Learning Papers since 2014 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## Non-Deep-Learning Papers since 2014 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2025 | **BMI-GP: Unsupervised Breach Merchant Identification via Adaptive Graph Pruning** | ICAIF 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3768292.3770422) | Link | 
@@ -511,7 +511,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2014 | **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective**  | ICDM 2014 | [Link](https://arxiv.org/pdf/1410.3915.pdf) | [Link](https://github.com/safe-graph/UGFraud) |
 
 
-## Toolbox [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## Toolbox [[Back to Top](#llm-and-transformer-papers)]
 
 [PyGOD: A Python Library for Graph Outlier Detection (Anomaly Detection)](https://github.com/pygod-team/pygod)
 
@@ -527,7 +527,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 
 [GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba](https://github.com/alibaba/GraphScope)
 
-## Dataset [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## Dataset [[Back to Top](#llm-and-transformer-papers)]
 
 [Node Outlier Detection Benchmark](https://github.com/pygod-team/pygod/tree/main/benchmark)
 
@@ -571,7 +571,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 
 [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
 
-## Survey Paper [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## Survey Paper [[Back to Top](#llm-and-transformer-papers)]
 
 [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](https://aclanthology.org/2025.findings-naacl.333.pdf)
 
@@ -611,7 +611,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 
 [Mining Disinformation and Fake News: Concepts, Methods, and Recent Advancements](https://arxiv.org/abs/2001.00623)
 
-## Other Resource [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+## Other Resource [[Back to Top](#llm-and-transformer-papers)]
 
 [\[Thesis\] Robust Graph Learning for Misbehavior Detection](https://doi.org/10.25417/uic.22226566.v1)
 
