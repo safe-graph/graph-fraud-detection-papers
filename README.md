@@ -27,6 +27,7 @@ A curated list of Graph/Transformer-based papers and resources for fraud, anomal
 | 2025 | **TransactionGPT** | arXiv 2025 | [Link](https://arxiv.org/pdf/2511.08939) |  Link |
 | 2025 | **OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs** | ACM CCS 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765219) |  [Link](https://github.com/CoDS-GCS/OCR-APT) |
 | 2025 | **LLM-Powered Text-Attributed Graph Anomaly Detection via Retrieval-Augmented Reasoning** | arXiv 2025 | [Link](https://arxiv.org/pdf/2511.17584) |  [Link](https://github.com/Flanders1914/TAG_AD) |
+| 2025 | **Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings** | EMNLP 2025 | [Link](https://aclanthology.org/2025.emnlp-industry.61.pdf) |  Link |
 | 2025 | **LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis** | arXiv 2025 | [Link](https://arxiv.org/pdf/2510.03904) |  Link |
 | 2025 | **Detecting LLM-Generated Spam Reviews by Integrating Language Model Embeddings and Graph Neural Network** | arXiv 2025 | [Link](https://arxiv.org/pdf/2510.01801) |  [Link](https://anonymous.4open.science/r/FraudSquad-5389/) |
 | 2025 | **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection** | ACM MM 2025 | [Link](https://arxiv.org/pdf/2507.11997v1) |  Link |
