@@ -2,12 +2,18 @@
     <h1>Awesome Graph/Transformer Fraud Detection</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
+    <a href="https://yingtongdou.github.io/paper_dashboard/"><img src="https://img.shields.io/badge/github-website-blue?logo=github"/></a>
+    <a href="https://github.com/YingtongDou/paper_chatbot"><img src="https://img.shields.io/badge/github-chatbot-orange?logo=github"/></a>
+    
 </div>
 
 A curated list of Graph/Transformer-based papers and resources for fraud, anomaly, and outlier detection.
 
+We have an [interactive dashboard](https://yingtongdou.github.io/paper_dashboard/) to view/filter/search the papers listed in this repo.
 
-**Table of Content**
+To facilitate deep research, we developed a local [RAG-based LLM chatbot](https://github.com/YingtongDou/paper_chatbot) with 250 publicly accessible papers. Please refer to the project README on how to deploy this chatbot for personal use.
+
+**Table of Contents**
 - [LLM and Transformer Papers](#llm-and-transformer-papers)
 - Deep Learning Graph Papers: [2026](#2026-back-to-top) | [2025](#2025-back-to-top) | [2024](#2024-back-to-top) | [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
 - [Non-Deep-Learning Graph Papers since 2014](#non-deep-learning-papers-since-2014-back-to-top)
