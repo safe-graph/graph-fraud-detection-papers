@@ -1,8 +1,9 @@
 <div align="center">
     <h1>Awesome Graph/Transformer Fraud Detection</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <a href="https://github.com/safe-graph/graph-fraud-detection-papers/stargazers"><img src="https://img.shields.io/github/stars/safe-graph/graph-fraud-detection-papers?style=flat"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
-    <a href="https://safe-graph.github.io/paper_dashboard/"><img src="https://img.shields.io/badge/github-website-blue?logo=github"/></a>
+    <a href="https://safe-graph.github.io/paper_dashboard/"><img src="https://img.shields.io/badge/github-website-pink?logo=github"/></a>
     <a href="https://github.com/safe-graph/paper_chatbot"><img src="https://img.shields.io/badge/github-chatbot-orange?logo=github"/></a>
     
 </div>
