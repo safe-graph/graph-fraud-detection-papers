@@ -41,10 +41,11 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2025 | **GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model** | KDD 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3711896.3736993) |  [Link](https://github.com/THUDM/WhoIsWho/tree/main/mind) |
 | 2025 | **FLAG: Fraud Detection with LLM-enhanced Graph Neural Network** | KDD 2025 | [Link](http://www.shichuan.org/doc/200.pdf) | Link |
 | 2025 | **Automated graph anomaly detection with large language models** | Knowledge-Based Systems | [Link](https://www.sciencedirect.com/science/article/abs/pii/S095070512500855X) | Link |
-| 2025 | **Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements** | ACL 2025 | [Link](https://aclanthology.org/2025.findings-acl.226.pdf) | [Link](https://github.com/kaustpradalab/Fraud-R1) |
+| 2025 | **Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements** | ACL 2025 | [Link](https://aclanthology.org/2025.findings-acl.226.pdf) | [Link](https://github.com/kaustpradalab/Fraud-R1) |
 | 2025 | **Large Language Models for Tabular Anomaly Detection** | ICLR 2025 | [Link](https://openreview.net/pdf?id=7VkHffT5X2) | Link |
 | 2024 | **Anomaly Detection of Tabular Data Using LLMs** | IJCAI 2024 Workshop | [Link](https://arxiv.org/pdf/2406.16308) | Link |
 | 2023 | **Towards a Foundation Purchasing Model: Pretrained Generative Autoregression on Transaction Sequences** | ICAIF 2023 | [Link](https://arxiv.org/pdf/2401.01641) | Link |
+| 2023 | **FinGPT: Open-Source Financial Large Language Models** | IJCAI 2023 | [Link](https://arxiv.org/pdf/2306.06031) | [Link](https://github.com/AI4Finance-Foundation/FinGPT) |
 
 
 ## Deep Learning Graph Papers
@@ -77,6 +78,7 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2025 | **CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision** | ECAI 2025 | [Link](https://arxiv.org/pdf/2508.12278) |  [Link](https://github.com/XsLangley/CRoC_ECAI2025) |
 | 2025 | **Local Homophily-Aware Graph Neural Network with Adaptive Polynomial Filters for Scalable Graph Anomaly Detection** | KDD 2025 | [Link](https://dl.acm.org/doi/abs/10.1145/3711896.3737031) |  Link |
 | 2025 | **AffinityTune: A Prompt-Tuning Framework for Few-Shot Anomaly Detection on Graphs** | KDD 2025 | [Link](https://arxiv.org/pdf/2506.00594) |  Link |
+| 2025 | **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** | KDD 2025 | [Link](https://arxiv.org/pdf/2502.09254) | [Link](https://github.com/mala-lab/AnomalyGFM)  |
 | 2025 | **Graph Evidential Learning for Anomaly Detection** | KDD 2025 | [Link](https://arxiv.org/pdf/2506.00594) |  [Link](https://github.com/wuanjunruc/GEL) |
 | 2025 | **Robustness Evaluation of Graph-based News Detection Using Network Structural Information** | KDD 2025 | [Link](https://arxiv.org/pdf/2505.14453) |  Link |
 | 2025 | **TFGIN: Tight-Fitting Graph Inference Network for Table-based Fact Verification** | ACM TOIS | [Link](https://dl.acm.org/doi/abs/10.1145/3734520) |  Link |
@@ -109,7 +111,6 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2025 | **Enhancing Attribute-Driven Fraud Detection With Risk-Aware Graph Representation** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/document/10896835) | [Link](https://github.com/AI4Risk/antifraud)  |
 | 2025 | **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.08605) | [Link](https://github.com/karish-grover/curvgad)  |
 | 2025 | **Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10843290) | Link |
-| 2025 | **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2502.09254) | [Link](https://github.com/mala-lab/AnomalyGFM)  |
 | 2025 | **Nowhere to H2IDE: Fraud Detection From Multi-Relation Graphs via Disentangled Homophily and Heterophily Identification** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10816539) | Link |
 | 2025 | **Towards Fraud Detection Via Fine-Grained Classification of User Behavior** | TBD 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10798511) | Link  |
 | 2025 | **Rethinking Unsupervised Graph Anomaly Detection With Deep Learning: Residuals and Objectives** | TKDE 2025 | [Link](https://ieeexplore.ieee.org/abstract/document/10756792) | Link |
@@ -162,7 +163,7 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2024 | **TFD:Trust-Based Fraud Detection in SIoT With Graph Convolutional Networks** | IEEE TCE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10566887) |  Link |
 | 2024 | **Counterfactual Data Augmentation With Denoising Diffusion for Graph Anomaly Detection** | IEEE TCSS 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10564850) |  Link |
 | 2024 | **HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection** | arXiv 2024 | [Link](https://arxiv.org/pdf/2407.02057) |  [Link](https://github.com/Yali-F/HC-GLAD) |
-| 2024 | **GLADformer: A Mixed Perspective for Graph-level Anomaly Detection** | arXiv 2024 | [Link](https://arxiv.org/pdf/2406.00734) |  Link |
+| 2024 | **GLADformer: A Mixed Perspective for Graph-level Anomaly Detection** | ECML PKDD 2024 | [Link](https://arxiv.org/pdf/2406.00734) |  Link |
 | 2024 | **Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement** | arXiv 2024 | [Link](https://arxiv.org/pdf/2406.00987) |  [Link](https://github.com/AhaChang/DEFEND) |
 | 2024 | **Learning-Based Link Anomaly Detection in Continuous-Time Dynamic Graphs** | TMLR 2024 | [Link](https://arxiv.org/pdf/2405.18050) |  [Link](https://github.com/timpostuvan/CTDG-link-anomaly-detection) |
 | 2024 | **ARC: A Generalist Graph Anomaly Detector with In-Context Learning** | NeurIPS 2024 | [Link](https://arxiv.org/pdf/2405.16771) |  [Link](https://github.com/yixinliu233/ARC) |
