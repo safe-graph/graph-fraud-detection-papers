@@ -606,7 +606,7 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 
 [Anomaly Mining - Past, Present and Future](https://arxiv.org/pdf/2105.10077.pdf)
 
-[Graph Computing for Financial Crime and Fraud Detection: Trends, Challenges and Outlook](https://arxiv.org/pdf/2103.03227.pdf)
+[Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook](https://arxiv.org/pdf/2103.01854)
 
 [Graph-based anomaly detection and description: a survey](https://link.springer.com/article/10.1007/s10618-014-0365-y)
 
