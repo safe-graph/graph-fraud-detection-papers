@@ -121,6 +121,9 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2025 | **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.18370) | [Link](https://github.com/bdi-lab/MonTi)  |
 | 2025 | **A Generalizable Anomaly Detection Method in Dynamic Graphs** | AAAI 2025 | [Link](https://arxiv.org/pdf/2412.16447) | [Link](https://github.com/YXNTU/GeneralDyG)  |
 | 2025 | **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection**| AAAI 2025 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33264/35419) | [Link](https://github.com/AtwoodDuan/GAAP)  |
+| 2025 | **UMGAD: Unsupervised Multiplex Graph Anomaly Detection** | ICDE 2025 | [Link](https://arxiv.org/pdf/2411.12556) | Link |
+| 2025 | **BSG4Bot: Efficient Bot Detection based on Biased Heterogeneous Subgraphs** | ICDE 2025 | [Link](https://arxiv.org/pdf/2410.05356) | Link |
+| 2025 | **Catch Me If You Can: A Multi-Agent Synthetic Fraud Detection Framework for Complex Networks** | ICDE 2025 | [Link](https://doi.org/10.1109/ICDE65448.2025.00271) | Link |
 ### 2024 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
@@ -442,6 +445,8 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2025 | **BMI-GP: Unsupervised Breach Merchant Identification via Adaptive Graph Pruning** | ICAIF 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3768292.3770422) | Link | 
 | 2025 | **MPOCryptoML: Multi-Pattern based Off-Chain Crypto Money Laundering Detection** | arXiv 2025 | [Link](https://arxiv.org/pdf/2508.12641) | Link | 
 | 2025 | **Bursting Flow Query on Large Temporal Flow Networks** | SIGMOD 2025 | [Link](https://dl.acm.org/doi/10.1145/3709737) | Link | 
+| 2025 | **Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs** | SIGMOD 2025 | [Link](https://dl.acm.org/doi/10.1145/3725287) | Link |
+| 2025 | **Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability** | SIGMOD 2025 | [Link](https://dl.acm.org/doi/10.1145/3698823) | Link |
 | 2024 | **Benchmarking Fraud Detectors on Private Graph Data** | KDD 2025 | [Link](https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf) |  Link |
 | 2024 | **RUSH: Real-Time Burst Subgraph Detection in Dynamic Graphs** |  VLDB 2024 | [Link](https://dl.acm.org/doi/10.14778/3681954.3682028) | [Link](https://github.com/Xtra-Computing/RUSH) | 
 | 2024 | **Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs** |  IEEE TKDE 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10510636) |Link | 
