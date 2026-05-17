@@ -26,12 +26,12 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 ## LLM and Transformer Papers
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2026 | **TransactionGPT** | KDD 2026 | [Link](https://arxiv.org/pdf/2511.08939) |  Link |
 | 2026 | **TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding** | KDD 2026 | [Link](https://arxiv.org/pdf/2511.19693) |  Link |
 | 2026 | **When graph anomaly breaks the coherence: A multi-evidence approach with language models** | Expert Systems with Applications | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425031720) |  Link |
 | 2026 | **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** | AAAI 2026 | [Link](https://arxiv.org/pdf/2507.21653) |  Link |
 | 2025 | **PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling** | NeurIPS 2025 | [Link](https://arxiv.org/pdf/2510.10102v1) |  [Link](https://github.com/yzhangjy/PANTHER) |
 | 2025 | **AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping** | NeurIPS 2025 Workshop | [Link](https://arxiv.org/pdf/2512.02726) |  Link |
-| 2025 | **TransactionGPT** | arXiv 2025 | [Link](https://arxiv.org/pdf/2511.08939) |  Link |
 | 2025 | **OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs** | ACM CCS 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765219) |  [Link](https://github.com/CoDS-GCS/OCR-APT) |
 | 2025 | **LLM-Powered Text-Attributed Graph Anomaly Detection via Retrieval-Augmented Reasoning** | arXiv 2025 | [Link](https://arxiv.org/pdf/2511.17584) |  [Link](https://github.com/Flanders1914/TAG_AD) |
 | 2025 | **Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings** | EMNLP 2025 | [Link](https://aclanthology.org/2025.emnlp-industry.61.pdf) |  Link |
