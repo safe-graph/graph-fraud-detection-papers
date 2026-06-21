@@ -32,7 +32,6 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2026 | **Let Relations Speak: An End-to-End LLM-GNN Soft Prompt Framework for Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.28524) | Link |
 | 2026 | **UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.12329) | [Link](https://github.com/msy0513/UniDetect) |
 | 2026 | **PRAGMA: Revolut Foundation Model** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.08649) | Link |
-| 2026 | **Large Language Models in the Abuse Detection Pipeline** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.00323) | Link |
 | 2026 | **Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38588/42550) | Link |
 | 2026 | **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38541/42503) | [Link](https://github.com/Xtra-Computing/DGP) |
 | 2026 | **Autonomous Chain-of-Thought Distillation for Graph-Based Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2601.22949) | Link |
@@ -631,6 +630,8 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
 
 ## Survey Paper [[Back to Top](#llm-and-transformer-papers)]
+
+[Large Language Models in the Abuse Detection Pipeline](https://arxiv.org/pdf/2604.00323)
 
 [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](https://aclanthology.org/2025.findings-naacl.333.pdf)
 
