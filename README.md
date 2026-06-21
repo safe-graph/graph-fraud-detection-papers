@@ -83,7 +83,7 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2026 | **Integrated Mixture of Neighborhood and Community Experts for Graph-Based Fraud Detection** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792122) |  Link |
 | 2026 | **STG-DGR: Fraud Detection on Streaming Transaction Graphs with Diffusion-based Generative Replay** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792195) |  Link |
 | 2026 | **Dual-level Reweighting for Positive-Unlabeled Graph Classification** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792251) |  Link |
-| 2026 | HCSL: Rumor Detection by Integrating Intra-Sample Curriculum Learning and Hierarchical Semantic Learning | TheWebConf 2026 | [Link](https://dl.acm.org/doi/10.1145/3774904.3793016) | Link |
+| 2026 | **HCSL: Rumor Detection by Integrating Intra-Sample Curriculum Learning and Hierarchical Semantic Learning** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/10.1145/3774904.3793016) | Link |
 | 2026 | **Revisiting Graph-Level Anomaly Detection: From Partially to Fully Unsupervised Learning** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792307) |  Link |
 | 2026 | **PAGE: Progressive Anomaly Generation Network for Semi-supervised Graph Anomaly Detection** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792340) |  Link |
 | 2026 | **Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792454) |  [Link](https://github.com/Cloudy1225/SAGAD) |
