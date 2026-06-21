@@ -52,6 +52,14 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 ### 2026 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2026 | Efficient Densest Flow Queries in Transaction Flow Networks | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2602.15773) | Link |
+| 2026 | Noise-Filtering Enhanced Graph Transformer for Robust Fake News Detection | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11455959) | [Link](https://github.com/JYZHU03/NEGT) |
+| 2026 | Learning Feature Encoder With Synthetic Anomalies for Weakly Supervised Graph Anomaly Detection | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2605.11749) | [Link](https://github.com/yj-zhou/SAWGAD) |
+| 2026 | Evolutionary-Optimized Graph Neural Network for Fraud Detection With Topological Obfuscation | IEEE TEVC 2026 | [Link](https://ieeexplore.ieee.org/document/11442295) | [Link](https://github.com/BERA-wx/EOGFD) |
+| 2026 | Exposing Disguises and Tracing Illicit Flows: Dual-View Graph Representation Learning for Money Laundering Detection | IEEE TCSS 2026 | [Link](https://ieeexplore.ieee.org/document/11357545/) | Link |
+| 2026 | CamFD: Semi-Supervised Camouflage-Aware Fraud Detection Based on Dynamic Graphs | IEEE TSMC 2026 | [Link](https://ieeexplore.ieee.org/document/11321123/) | Link |
+| 2026 | Defending Attacks on Anti-Fraud Model With Generative Graph Representations | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11278752/) | Link |
+| 2026 | SURE-GNN: Subgraph-Level Graph Neural Network Against Heterophily for Fraud Detection | IEEE TCSS | [Link](https://ieeexplore.ieee.org/document/11303134/) | Link |
 | 2026 | **Detect by Yourself: Self-Designing Agentic Workflows for Few-Shot Graph Anomaly Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.27470) |  Link |
 | 2026 | **L2IR: Revealing Latent Intent in Graph Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.26040) |  Link |
 | 2026 | **NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.20879) |  Link |
@@ -60,6 +68,7 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | 2026 | **Integrated Mixture of Neighborhood and Community Experts for Graph-Based Fraud Detection** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792122) |  Link |
 | 2026 | **STG-DGR: Fraud Detection on Streaming Transaction Graphs with Diffusion-based Generative Replay** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792195) |  Link |
 | 2026 | **Dual-level Reweighting for Positive-Unlabeled Graph Classification** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792251) |  Link |
+| 2026 | HCSL: Rumor Detection by Integrating Intra-Sample Curriculum Learning and Hierarchical Semantic Learning | TheWebConf 2026 | [Link](https://dl.acm.org/doi/10.1145/3774904.3793016) | Link |
 | 2026 | **Revisiting Graph-Level Anomaly Detection: From Partially to Fully Unsupervised Learning** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792307) |  Link |
 | 2026 | **PAGE: Progressive Anomaly Generation Network for Semi-supervised Graph Anomaly Detection** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792340) |  Link |
 | 2026 | **Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792454) |  [Link](https://github.com/Cloudy1225/SAGAD) |
