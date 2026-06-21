@@ -27,9 +27,24 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2026 | **TransactionGPT** | KDD 2026 | [Link](https://arxiv.org/pdf/2511.08939) |  Link |
+| 2026 | **SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2606.08146) | Link |
+| 2026 | **Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2606.04599) | Link |
+| 2026 | **Let Relations Speak: An End-to-End LLM-GNN Soft Prompt Framework for Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.28524) | Link |
+| 2026 | **UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.12329) | [Link](https://github.com/msy0513/UniDetect) |
+| 2026 | **PRAGMA: Revolut Foundation Model** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.08649) | Link |
+| 2026 | **Large Language Models in the Abuse Detection Pipeline** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.00323) | Link |
+| 2026 | **Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38588/42550) | Link |
+| 2026 | **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38541/42503) | [Link](https://github.com/Xtra-Computing/DGP) |
+| 2026 | **Autonomous Chain-of-Thought Distillation for Graph-Based Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2601.22949) | Link |
+| 2026 | **LLM-Assisted Logic Rule Learning: Scaling Human Expertise for Time Series Anomaly Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2601.19255) | Link |
+| 2026 | **Reinforcement Learning of Large Language Models for Interpretable Credit Card Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2601.05578) | Link |
+| 2026 | **Ahead of the Spread: Agent-Driven Virtual Propagation for Early Fake News Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2601.02750) | [Link](https://github.com/Ironychen/AVOID) |
+| 2026 | **Understanding Structured Financial Data with LLMs: A Case Study on Fraud Detection** | ACL 2026 | [Link](https://arxiv.org/pdf/2512.13040) | Link |
 | 2026 | **TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding** | KDD 2026 | [Link](https://arxiv.org/pdf/2511.19693) |  Link |
 | 2026 | **When graph anomaly breaks the coherence: A multi-evidence approach with language models** | Expert Systems with Applications | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425031720) |  Link |
 | 2026 | **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** | AAAI 2026 | [Link](https://arxiv.org/pdf/2507.21653) |  Link |
+| 2025 | **Open Banking Foundational Model: Learning Language Representations from Few Financial Transactions** | arXiv 2025 | [Link](https://arxiv.org/pdf/2511.12154) | Link |
+| 2025 | **SHERLOCK: Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management** | arXiv 2025 | [Link](https://arxiv.org/pdf/2510.08948) | Link |
 | 2025 | **PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling** | NeurIPS 2025 | [Link](https://arxiv.org/pdf/2510.10102v1) |  [Link](https://github.com/yzhangjy/PANTHER) |
 | 2025 | **AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping** | NeurIPS 2025 Workshop | [Link](https://arxiv.org/pdf/2512.02726) |  Link |
 | 2025 | **OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs** | ACM CCS 2025 | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765219) |  [Link](https://github.com/CoDS-GCS/OCR-APT) |
@@ -52,14 +67,14 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 ### 2026 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2026 | Efficient Densest Flow Queries in Transaction Flow Networks | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2602.15773) | Link |
-| 2026 | Noise-Filtering Enhanced Graph Transformer for Robust Fake News Detection | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11455959) | [Link](https://github.com/JYZHU03/NEGT) |
-| 2026 | Learning Feature Encoder With Synthetic Anomalies for Weakly Supervised Graph Anomaly Detection | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2605.11749) | [Link](https://github.com/yj-zhou/SAWGAD) |
-| 2026 | Evolutionary-Optimized Graph Neural Network for Fraud Detection With Topological Obfuscation | IEEE TEVC 2026 | [Link](https://ieeexplore.ieee.org/document/11442295) | [Link](https://github.com/BERA-wx/EOGFD) |
-| 2026 | Exposing Disguises and Tracing Illicit Flows: Dual-View Graph Representation Learning for Money Laundering Detection | IEEE TCSS 2026 | [Link](https://ieeexplore.ieee.org/document/11357545/) | Link |
-| 2026 | CamFD: Semi-Supervised Camouflage-Aware Fraud Detection Based on Dynamic Graphs | IEEE TSMC 2026 | [Link](https://ieeexplore.ieee.org/document/11321123/) | Link |
-| 2026 | Defending Attacks on Anti-Fraud Model With Generative Graph Representations | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11278752/) | Link |
-| 2026 | SURE-GNN: Subgraph-Level Graph Neural Network Against Heterophily for Fraud Detection | IEEE TCSS | [Link](https://ieeexplore.ieee.org/document/11303134/) | Link |
+| 2026 | **Efficient Densest Flow Queries in Transaction Flow Networks** | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2602.15773) | Link |
+| 2026 | **Noise-Filtering Enhanced Graph Transformer for Robust Fake News Detection** | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11455959) | [Link](https://github.com/JYZHU03/NEGT) |
+| 2026 | **Learning Feature Encoder With Synthetic Anomalies for Weakly Supervised Graph Anomaly Detection** | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2605.11749) | [Link](https://github.com/yj-zhou/SAWGAD) |
+| 2026 | **Evolutionary-Optimized Graph Neural Network for Fraud Detection With Topological Obfuscation** | IEEE TEVC 2026 | [Link](https://ieeexplore.ieee.org/document/11442295) | [Link](https://github.com/BERA-wx/EOGFD) |
+| 2026 | **Exposing Disguises and Tracing Illicit Flows: Dual-View Graph Representation Learning for Money Laundering Detection** | IEEE TCSS 2026 | [Link](https://ieeexplore.ieee.org/document/11357545/) | Link |
+| 2026 | **CamFD: Semi-Supervised Camouflage-Aware Fraud Detection Based on Dynamic Graphs** | IEEE TSMC 2026 | [Link](https://ieeexplore.ieee.org/document/11321123/) | Link |
+| 2026 | **Defending Attacks on Anti-Fraud Model With Generative Graph Representations** | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11278752/) | Link |
+| 2026 | **SURE-GNN: Subgraph-Level Graph Neural Network Against Heterophily for Fraud Detection** | IEEE TCSS | [Link](https://ieeexplore.ieee.org/document/11303134/) | Link |
 | 2026 | **Detect by Yourself: Self-Designing Agentic Workflows for Few-Shot Graph Anomaly Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.27470) |  Link |
 | 2026 | **L2IR: Revealing Latent Intent in Graph Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.26040) |  Link |
 | 2026 | **NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.20879) |  Link |
