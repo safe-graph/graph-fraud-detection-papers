@@ -52,6 +52,27 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 ### 2026 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2026 | **Detect by Yourself: Self-Designing Agentic Workflows for Few-Shot Graph Anomaly Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.27470) |  Link |
+| 2026 | **L2IR: Revealing Latent Intent in Graph Fraud Detection** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.26040) |  Link |
+| 2026 | **NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity** | arXiv 2026 | [Link](https://arxiv.org/pdf/2605.20879) |  Link |
+| 2026 | **CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection** | IJCAI 2026 | [Link](https://arxiv.org/pdf/2605.20032) |  [Link](https://github.com/CampanulaBells/CAMERA) |
+| 2026 | **Graph-Based Fraud Detection with Dual-Path Graph Filtering** | arXiv 2026 | [Link](https://arxiv.org/pdf/2604.14235) |  Link |
+| 2026 | **Integrated Mixture of Neighborhood and Community Experts for Graph-Based Fraud Detection** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792122) |  Link |
+| 2026 | **STG-DGR: Fraud Detection on Streaming Transaction Graphs with Diffusion-based Generative Replay** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792195) |  Link |
+| 2026 | **Dual-level Reweighting for Positive-Unlabeled Graph Classification** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792251) |  Link |
+| 2026 | **Revisiting Graph-Level Anomaly Detection: From Partially to Fully Unsupervised Learning** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792307) |  Link |
+| 2026 | **PAGE: Progressive Anomaly Generation Network for Semi-supervised Graph Anomaly Detection** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792340) |  Link |
+| 2026 | **Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792454) |  [Link](https://github.com/Cloudy1225/SAGAD) |
+| 2026 | **GRAND: A Robust Diffusion Framework for Multi-Granularity Graph Anomaly Detection in Web Platforms** | TheWebConf 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3793012) |  Link |
+| 2026 | **TAS-GNN: A Status-Aware Signed Graph Neural Network for Anomaly Detection in Bitcoin Trust Systems** | arXiv 2026 | [Link](https://arxiv.org/pdf/2603.13290) |  Link |
+| 2026 | **Multi-dimensional Adaptive Mix-hop Contextual Learning Framework for Universal Graph Anomaly Detection** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38568) |  Link |
+| 2026 | **SFGA: Similarity-Constrained Fusion Learning for Unsupervised Anomaly Detection in Multiplex Graphs** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/40040) |  Link |
+| 2026 | **BAG: Benchmarking Anomaly Detection on Dynamic Graphs** | AAAI 2026 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38510) |  Link |
+| 2026 | **Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision** | arXiv 2026 | [Link](https://arxiv.org/pdf/2602.20019) |  Link |
+| 2026 | **Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts** | arXiv 2026 | [Link](https://arxiv.org/pdf/2602.06859) |  Link |
+| 2026 | **Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection** | KDD 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3770854.3780240) |  [Link](https://github.com/OaxKnud/BAED) |
+| 2026 | **Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms** | KDD 2026 | [Link](https://dl.acm.org/doi/abs/10.1145/3770854.3780246) |  [Link](https://github.com/QiaoYRan/AC-MIL) |
+| 2026 | **CamFD: Semi-Supervised Camouflage-Aware Fraud Detection Based on Dynamic Graphs** | IEEE TSMC | [Link](https://ieeexplore.ieee.org/abstract/document/11321123) |  Link |
 | 2026 | **PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks** | IEEE S&P 2026 | [Link](https://arxiv.org/pdf/2510.12652) |  [Link](https://github.com/0xllssFF/PromoGuardian) |
 | 2026 | **Multi-faceted consistency data augmentation for graph anomaly detection** | Information Processing & Management | [Link](https://www.sciencedirect.com/science/article/pii/S0306457325002791) |  Link |
 | 2026 | **Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time** | AAAI 2026 | [Link](https://arxiv.org/pdf/2511.07023) |  [Link](https://github.com/CampanulaBells/TUNE) |
