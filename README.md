@@ -66,6 +66,7 @@ To facilitate deep research, we developed a local [RAG-based LLM chatbot](https:
 ### 2026 [[Back to Top](#llm-and-transformer-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2026 | **Population-Calibrated Graph Screening at 835-Million-Address Scale, with Label-Free Transfer to New Chains** | SSRN 2026 | [Link](https://ssrn.com/abstract=7366202) | [Link](https://github.com/ai-decisions/openeval) |
 | 2026 | **Efficient Densest Flow Queries in Transaction Flow Networks** | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2602.15773) | Link |
 | 2026 | **Noise-Filtering Enhanced Graph Transformer for Robust Fake News Detection** | IEEE TKDE 2026 | [Link](https://ieeexplore.ieee.org/document/11455959) | [Link](https://github.com/JYZHU03/NEGT) |
 | 2026 | **Learning Feature Encoder With Synthetic Anomalies for Weakly Supervised Graph Anomaly Detection** | IEEE TKDE 2026 | [Link](https://arxiv.org/pdf/2605.11749) | [Link](https://github.com/yj-zhou/SAWGAD) |
